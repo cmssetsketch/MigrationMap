@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+
+  <title>International Migration Flow</title>
+  
+  <link rel="stylesheet" href="style.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.6.0/p5.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/p5.collide2d@0.7.4/p5.collide2d.min.js"></script>
+
+</head>
+<body>
+  <div id="map-container">
+    <div id="svg-wrapper"></div>
+    <div id="p5-wrapper"></div>
+    <div id="popUp"></div>
+    <div id="popInfo"></div>
+  </div>
+
+<div id="toolbar">
+    <div class="toolbar-left">
+      <button id="info-btn">?</button>
+    </div>
+
+    <div class="toolbar-center">
+      <button id="zoom-in">+</button>
+      <button id="zoom-out">-</button>
+    </div>
+
+    <div id="toggle-container">
+  <button id="toggle-everybody" class="toggle-btn active">Global population</button>
+  <button id="toggle-migrant" class="toggle-btn">Migrants only</button>
+</div>
+  </div>
+
+  <!-- Scripts -->
+  <script src="PatternShape.js"></script>
+  <script src="DataHelpers.js"></script>
+  <script src="countrylist.js"></script>
+  <script src="sketch.js"></script>
+  <script src="DrawShapes.js"></script>
+  <script src="intro.js"></script>
+  <script src="interaction.js"></script>
+</body>
+
+</html>

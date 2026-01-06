@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_1" data-name="Calque 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1502 780">
+  <polygon id="Greece" points="850 258 850 252 826 252 826 270 831.9 270 831.9 276 838 276 838 258 850 258" style="fill: #b6f1ff;"/>
+  <polygon id="Serbia" points="837.9 234 837.9 246 828 246 828 244 826 244 826 234 820 234 820 228 832 228 832 234 837.9 234" style="fill: #b6f1ff;"/>
+  <polygon id="Spain" points="760 246 760 252.1 754 252.1 754 270 748 270 748 276 736 276 730 276 723.9 276 723.9 270 730 270 730 252 723.9 252 723.9 246 718 246 718 240 748 240 748 246 760 246" style="fill: #b6f1ff;"/>
+  <polygon id="Portugal" points="730 252 730 270 723.9 270 723.9 276 718 276 718 246 723.9 246 723.9 252 730 252" style="fill: #b6f1ff;"/>
+  <rect id="Slovenia" x="796" y="228" width="12" height="6" style="fill: #b6f1ff;"/>
+  <polygon id="Croatia" points="820 228 808 228 808 234.1 808 240 814 240 814 234 820 234 820 228" style="fill: #b6f1ff;"/>
+  <rect id="Albania" x="820" y="246" width="6" height="18" style="fill: #b6f1ff;"/>
+  <polygon id="Bulgaria" points="846.9 240 837.9 240 837.9 252 846.9 252 856 252 856 240 846.9 240" style="fill: #34bde8;"/>
+  <rect id="North_Macedonia" data-name="North Macedonia" x="826" y="246" width="11.9" height="6" style="fill: #b6f1ff;"/>
+  <rect id="Montenegro" x="820" y="240" width="6" height="6" style="fill: #b6f1ff;"/>
+  <polygon id="Bosnia_and_Herzegovina" data-name="Bosnia and Herzegovina" points="826 234 826 240 820 240 820 246 814 246 814 234 826 234" style="fill: #b6f1ff;"/>
+  <g id="Italy">
+    <rect x="786" y="252" width="6" height="12" style="fill: #b6f1ff;"/>
+    <rect x="796" y="270" width="12" height="6" style="fill: #b6f1ff;"/>
+    <polygon points="796 228 777.8 228 777.8 240 790 240 790 246 796 246 796 240 796 228" style="fill: #b6f1ff;"/>
+    <polygon points="808 252 808 246 802 246 796 246 796 250 798 250 798 252 802 252 802 258 808 258 808 270 814 270 814 252 808 252" style="fill: #b6f1ff;"/>
+  </g>
+  <rect id="San_Marino" data-name="San Marino" x="796" y="240" width="6" height="6" style="fill: #b6f1ff;"/>
+  <rect id="Kosovo" x="826" y="244" width="2" height="2" style="fill: #b6f1ff;"/>
+  <rect id="Malta" x="804" y="280" width="6" height="6" style="fill: #b6f1ff;"/>
+  <rect id="Gibraltar" x="732" y="276" width="6" height="4" style="fill: #b6f1ff;"/>
+  <rect id="Cyprus" x="838" y="282" width="12" height="6" style="fill: #c4b4f9;"/>
+  <polygon id="Yemen" points="958.2 372 958.2 360 946 360 946 372 922 372 922 390 946.5 390 946.5 384.1 964.3 384.1 964.3 372 958.2 372" style="fill: #c4b4f9;"/>
+  <polygon id="Oman" points="982 336 970 336 970 360 958.2 360 958.2 372 976.6 372 976.6 366 982 366 982 336" style="fill: #c4b4f9;"/>
+  <polygon id="Azerbaijan" points="916 246 916 258 928 258 928 264 934 264 934 246 916 246" style="fill: #c4b4f9;"/>
+  <polygon id="Armenia" points="916 258 916 252 910 252 910 257.4 910 264 922 264 922 258 916 258" style="fill: #c4b4f9;"/>
+  <polygon id="Iran" points="934 264 934 270 958.2 270 958.2 264 976 264 976 270 982 270 982 294 988 294 988 312 994 312 994 330 976 330 976 324 958 324 958 318 946 318 946 306 934 306 934 288 922 288 922 270 916.1 270 916.1 264 922 264 922 258 928 258 928 264 934 264" style="fill: #aa83ff;"/>
+  <polygon id="Iraq" points="934 288 922 288 922 270 910.2 270 910.2 288 898.1 288 898.1 294 904 294 904 300 910 300 910 306 922.3 306 922.3 312 934 312 934 299.5 934 288" style="fill: #c4b4f9;"/>
+  <polygon id="Syria" points="904.1 270 904.1 276 886 276 886 282 892 282 892 294 898.1 294 898.1 288 910.2 288 910.2 270 904.1 270" style="fill: #c4b4f9;"/>
+  <polygon id="Jordan" points="892 294 892 299.4 892 312 898 312 898 300 904 300 904 294 892 294" style="fill: #c4b4f9;"/>
+  <rect id="Lebanon" x="886" y="282" width="6" height="12" style="fill: #c4b4f9;"/>
+  <rect id="Palestine" x="886" y="294" width="6" height="12" style="fill: #c4b4f9;"/>
+  <rect id="Israel" x="886" y="306" width="6" height="12" style="fill: #c4b4f9;"/>
+  <polygon id="Saudi_Arabia" data-name="Saudi Arabia" points="892 312 892 324 898 324 898 336 904 336 904 348 910 348 910 360 916 360 916 372 946 372 946 360 970 360 970 342 958 342 958 336 934 336 934 330 940 330 940 312 922.3 312 922.3 306 910 306 910 300 898 300 898 312 892 312" style="fill: #c4b4f9;"/>
+  <polygon id="United_Arab_Emirates" data-name="United Arab Emirates" points="964 329.9 964 336 958 336 958 342 970 342 970 329.9 964 329.9" style="fill: #c4b4f9;"/>
+  <polygon id="Georgia" points="910 246 910 240 898 240 898 252 916 252 916 246 910 246" style="fill: #c4b4f9;"/>
+  <rect id="Bahrain" x="934" y="330" width="6" height="6" style="fill: #c4b4f9;"/>
+  <rect id="Kuwait" x="934" y="306" width="6" height="6" style="fill: #c4b4f9;"/>
+  <rect id="Qatar" x="945.9" y="329.9" width="6.1" height="6.1" style="fill: #c4b4f9;"/>
+  <polygon id="Türkiye" points="916.1 264 916.1 270 904.1 270 904.1 276 850 276 850 264.1 855.9 264.1 855.9 258 850 258 850 252 868 252 868 246 886 246 886 252 910 252 910 264 916.1 264" style="fill: #c4b4f9;"/>
+  <rect id="Bhutan" x="1096" y="312" width="12" height="6" style="fill: #aa83ff;"/>
+  <polygon id="Sri_Lanka" data-name="Sri Lanka" points="1078 408 1078 414 1072 414 1072 426 1084 426 1084 408.1 1078 408" style="fill: #aa83ff;"/>
+  <polygon id="Bangladesh" points="1096 324 1114 324 1114 336 1108 336 1108 342 1102 342 1102 330 1096 330 1096 324" style="fill: #aa83ff;"/>
+  <polygon id="Nepal" points="1078 312 1078 306 1072 306 1072 300 1060 300 1059.9 312 1066 312 1072.1 312 1072.1 318 1090 318 1090 312 1078 312" style="fill: #aa83ff;"/>
+  <polygon id="India" points="1126 306 1108 306 1108 318 1096 318 1096 312 1090 312 1090 318 1072.1 318 1072.1 312 1059.9 312 1060 300 1054 300 1054 288 1048 288 1048 276 1042 276 1042 282 1030 282 1030 288 1036 288 1036 300 1030 300 1030 318 1024 318 1024 330 1030.1 330 1030.1 330.2 1030.1 336 1024 336 1024 342 1030 342 1030 354.1 1036 354.1 1036 342.3 1042 342.3 1042 378.1 1048 378.1 1048 390 1054 390 1054 414 1066 414 1066 408.1 1072.1 408.1 1072.1 402 1078 402 1078 378.1 1090 378.1 1090 354 1096 354 1096 342 1102 342 1102 330 1096 330 1096 324 1114 324 1114 330 1120 330 1120 318 1126 318 1126 306" style="fill: #aa83ff;"/>
+  <polygon id="Afghanistan" points="1030 270 1018 270 1018 264 1006 264 1006 270 994 270 994 276 982 276 982 294 988 294 988 306 1006 306 1006 294 1012 294 1012 288 1018 288 1018 276 1030 276 1030 270" style="fill: #aa83ff;"/>
+  <polygon id="Pakistan" points="1042 282 1042 270 1030 270 1030 276 1018 276 1018 288 1012 288 1012 294 1006 294 1006 306 988 306 988 312 994 312 994 330 1012 330 1012 330.2 1012 336 1030.1 336 1030.1 330 1024 330 1024 318 1030 318 1030 300 1036 300 1036 288 1030 288 1030 282 1042 282" style="fill: #aa83ff;"/>
+  <polygon id="Egypt" points="886 335.3 886 324 880 324 880 318 886 318 886 300 870.9 300 850 300 850 348 877.6 348 892 348 892 335.3 886 335.3" style="fill: #ffd6cf;"/>
+  <polygon id="Libya" points="844 300 844 294 826.1 294 826 306 820 306 820 300 808 300 808 293.9 796 293.9 796 300 790 300 790 336 789.8 336 796 336 796 342 808.3 342 826 342 826 348 838 348 838 360 850 360 850 300 844 300" style="fill: #ffd6cf;"/>
+  <polygon id="Tunisia" points="790 282 790 276 784 276 784 288 778 288 778 300 783.9 300 783.9 312 790 312 790 300 796 300 796 287.4 796 282 790 282" style="fill: #ffd6cf;"/>
+  <polygon id="Algeria" points="790 336 790 329.2 790 312 783.9 312 783.9 300 778 300 778 288 784 288 784 276 754 276 754 282 748 282 748 300 730 300 730 312 718 312 718 330 730 330 730 336 736 336 736 342 748 342 748 354 772 354 772 360 784 360 784 354 796 354 796 336 790 336" style="fill: #ffd6cf;"/>
+  <polygon id="Western_Sahara" data-name="Western Sahara" points="706 330 694 330 694 336 688 336 688 354 700 354 700 346.9 700 336 706 336 706 330" style="fill: #ffd6cf;"/>
+  <polygon id="Morocco" points="730 282 730 288 712 288 712 312 705.8 312 705.8 318 700 318 700 324 694 324 694 330 706 330 706 324 705.8 324 718 324 718 317.3 718 312 730 312 730 300 748 300 748 282 730 282" style="fill: #ffd6cf;"/>
+  <polygon id="Sudan" points="850 348 898 348 898 360 904 360 904 378 898 378 898 408 886 408 886 402 880 402 880 408 850 408 850 414 844 414 844 378 850 378 850 348" style="fill: #ffd6cf;"/>
+  <polygon id="Mauritania" points="730 336 730 330 718 330 718 324 706 324 706 329.2 706 336 700 336 700 354 688 354 688 378 700 378 700 384 730 384 730 377 730 360 724.1 360 724.1 336 730 336" style="fill: #ffc4b6;"/>
+  <polygon id="Senegal" points="706 384 706 402 682 402 682 396 693.7 396 693.7 390 682 390 682 378 700 378 700 384 706 384" style="fill: #ffc4b6;"/>
+  <rect id="Gambia" x="682" y="390" width="11.7" height="6" style="fill: #ffc4b6;"/>
+  <rect id="Cabo_Verde" data-name="Cabo Verde" x="658" y="378" width="6" height="6" style="fill: #ffc4b6;"/>
+  <rect id="Guinea-Bissau" x="688" y="402" width="11.9" height="6" style="fill: #ffc4b6;"/>
+  <rect id="Sierra_Leone" data-name="Sierra Leone" x="700" y="414" width="12" height="12" style="fill: #ffc4b6;"/>
+  <polygon id="Liberia" points="724 437.9 724 426 718 426 718 420 712 420 712 437.9 724 437.9" style="fill: #ffc4b6;"/>
+  <polygon id="Côte_d_Ivoire" data-name="Côte d&amp;apos;Ivoire" points="718 408 718 426 724 426 724 438 742 438 742 408 718 408" style="fill: #ffc4b6;"/>
+  <rect id="Ghana" x="742" y="402" width="12" height="30" style="fill: #ffc4b6;"/>
+  <rect id="Togo" x="754" y="402" width="6" height="24" style="fill: #ffc4b6;"/>
+  <polygon id="Mali" points="706 384 706 402 718 402 718 408 730 408 730 396 736 396 736 390 742 390 742 384 772 384 772 354 748 354 748 342 736 342 736 336 724.1 336 724.1 360 730 360 730 384 706 384" style="fill: #ffc4b6;"/>
+  <polygon id="Niger" points="814 342 814 384 808 384 808 396 760 396 760 390 754 390 754 384 772 384 772 360 784 360 784 354 796 354 796 342 814 342" style="fill: #ffc4b6;"/>
+  <polygon id="Nigeria" points="814 396 814 402 808 402 808 426 790 426 790 438 772 438 772 426 766 426 766 408 771.8 408 771.8 396 814 396" style="fill: #ffc4b6;"/>
+  <polygon id="Guinea" points="694 408 694 414 712 414 712 420 718 420 718 402 699.9 402 699.9 408 694 408" style="fill: #ffc4b6;"/>
+  <polygon id="Burkina_Faso" data-name="Burkina Faso" points="754 390 754 384 742 384 742 390 736 390 736 396 730 396 730 408 742 408 742 402 760 402 760 390 754 390" style="fill: #ffc4b6;"/>
+  <polygon id="Benin" points="771.8 396 765.8 396 760 396 760 426 766 426 766 408 771.8 408 771.8 396" style="fill: #ffc4b6;"/>
+  <rect id="Saint_Helena" data-name="Saint Helena" x="724" y="540" width="6" height="6" style="fill: #ffc4b6;"/>
+  <polygon id="Cameroon" points="814 438 814 402 808 402 808 426 790 426 790 450 820 450 820 438 814 438" style="fill: #fcad9a;"/>
+  <polygon id="Chad" points="850 360 843.8 360 838 360 838 348 826 348 826 342 814 342 814 384 808 384 808 396 814 396 814 420.3 826 420.3 826 414 838 414 838 408 844 408 844 378 850 378 850 360" style="fill: #fcad9a;"/>
+  <polygon id="Gabon" points="808 450 808 474 802 474 802 480 790 480 790 456 802 456 802 450 808 450" style="fill: #fcad9a;"/>
+  <polygon id="Congo" points="820 444 820 450 808 450 808 474 802 474 802 486 814 486 814 480 820 480 820 468 826 468 826 444 820 444" style="fill: #fcad9a;"/>
+  <polygon id="Central_African_Republic" data-name="Central African Republic" points="850 414 850 420 856 420 856 426 862 426 862 432 844 432 844 438 826 438 826 444 820 444 820 438 814 438 814 420.3 826 420.3 826 414 838 414 838 408 844 408 844 414 850 414" style="fill: #fcad9a;"/>
+  <polygon id="Democratic_Republic_of_the_Congo" data-name="Democratic Republic of the Congo" points="874 438 874 468 868 468 868 486 874 486 874 504 868 504 868 522 862 522 862 516 838 516 838 496 832 496 832 504 820 504 820 492 802 492 802 486 814 486 814 480 820 480 820 468 826 468 826 438 844 438 844 432 862 432 862 438 874 438" style="fill: #fcad9a;"/>
+  <rect id="Equatorial_Guinea" data-name="Equatorial Guinea" x="790" y="450" width="12" height="6" style="fill: #fcad9a;"/>
+  <polygon id="Angola" points="850 516 838 516 838 496 832 496 832 504 820 504 820 492 802 492 801.9 503.3 802 546 832 546 832 552 844 552 844 522 850 522 850 516" style="fill: #fcad9a;"/>
+  <rect id="Sao_Tome_and_Principe" data-name="Sao Tome and Principe" x="772" y="456" width="6" height="6" style="fill: #fcad9a;"/>
+  <rect id="Réunion" x="970" y="564" width="6" height="6" style="fill: #f78d94;"/>
+  <rect id="Mauritius" x="982" y="558" width="6" height="6" style="fill: #f78d94;"/>
+  <rect id="Comoros" x="922" y="516" width="6" height="6" style="fill: #f78d94;"/>
+  <rect id="Mayotte" x="934" y="522" width="6" height="6" style="fill: #f78d94;"/>
+  <rect id="Seychelles" x="976" y="480" width="6" height="6" style="fill: #f78d94;"/>
+  <polygon id="South_Sudan" data-name="South Sudan" points="898 426 892.1 426 892 408 886 408 886 402 880 402 880 408 850 408 850 420 856 420 856 426 862 426 862 438 892 438 892 432 898 432 898 426" style="fill: #f78d94;"/>
+  <polygon id="Uganda" points="898 444 892 444 892 438 874 438 874 442.9 874 462 892 462 892 456 898 456 898 444" style="fill: #f78d94;"/>
+  <polygon id="Rwanda" points="880 462 880 474 868 474 868 468 874 468 874 462 880 462" style="fill: #f78d94;"/>
+  <polygon id="Ethiopia" points="946 414 916 414 916 407 916 396 910.1 396 910.1 390 898 390 898 408 892 408 892 426 898 426 898 438 934 438 934 432 946 432 946 414" style="fill: #f78d94;"/>
+  <polygon id="Somalia" points="928 402 928 414 934.2 414 946 414 946 432 934 432 934 438 922 438 922 454.8 922 462 928.2 462 928.2 456 934 456 934 450 946 450 946 438 958 438 958 402 928 402" style="fill: #f78d94;"/>
+  <rect id="Djibouti" x="916" y="402" width="12" height="12" style="fill: #f78d94;"/>
+  <polygon id="Eritrea" points="922 390 916.1 390 916.1 384 910 384 910 372 904 372 904 378 898 378 898 390 910.1 390 910.1 396 916 396 916 402 922 402 922 390" style="fill: #f78d94;"/>
+  <polygon id="Kenya" points="922 438 898 438 898 432 892 432 892 444 898 444 898 456 892 456 892 468 898 468 898 474 903.9 474 904 480 910 480 910 486 916.2 486 916.2 474 922 474 922 438" style="fill: #f78d94;"/>
+  <polygon id="Madagascar" points="952 527.8 952 522 946 522 946 534 939.8 534 939.8 540 928 540 928 563.9 922 563.9 922 588 939.8 588 939.8 570 946 570 946 558 952 558 952 540 958 540 958 527.8 952 527.8" style="fill: #f78d94;"/>
+  <polygon id="Burundi" points="880 474 868 474 868 486 874 486 874 480 880 480 880 474" style="fill: #f78d94;"/>
+  <polygon id="Tanzania" points="910 486 910 480 904 480 904 474 898 474 898 468 892 468 892 462 880 462 880 466.8 880 480 874 480 874 498 880 498 880 510 892 510 892 516 916.2 516 916.2 486 910 486" style="fill: #f78d94;"/>
+  <polygon id="Zambia" points="874 498 880 498 880 510 886 510 886 534 874 534 874 540 868 540 868 546.1 862 546.1 862 552 844 552 844 522 850 522 850 516 862 516 862 522 868 522 868 504 874 504 874 498" style="fill: #f78d94;"/>
+  <polygon id="Malawi" points="892 528 892 510 886 510 886 534 892 534 892 546 898 546 898 528 892 528" style="fill: #f78d94;"/>
+  <polygon id="Mozambique" points="892 516 892 528 898 528 898 546 892 546 892 534 874 534 874 540 880 540 880 570 874 570 874 594 880 594 880 588 886 588 886 582.1 892 582.1 892 558 916.2 558 916.2 527.9 916.2 516 892 516" style="fill: #f78d94;"/>
+  <polygon id="Zimbabwe" points="868 540 868 546.1 862 546.1 862 552 856 552 856 564 862 564 862 570 880 570 880 540 868 540" style="fill: #f78d94;"/>
+  <rect id="Eswatini" x="868" y="588" width="6" height="6" style="fill: #ed7f74;"/>
+  <rect id="Lesotho" x="856" y="606" width="6" height="6" style="fill: #ed7f74;"/>
+  <polygon id="Botswana" points="868 570 862 570 862 564 856 564 856 558 832 558 832 594 838 594 838 588 856 588 856 582 862 582 862 576 868 576 868 570" style="fill: #ed7f74;"/>
+  <polygon id="Namibia" points="856 552 832 552 832 546 802 546 801.9 570 808.1 570 808.1 600.1 814 600.1 814 606 826 606 826 600 832 600 832 558 856 558 856 552" style="fill: #ed7f74;"/>
+  <path id="South_Africa" data-name="South Africa" d="M880.1,594h-12.1v-6h6v-18h-6v6h-6v6h-6v6h-18v6h-6v6h-6v6h-12v30h18.1v-6h23.9v-6h12v-12h6v-6h6v-11.9h0l.1-.1ZM856,612v-6h6v6h-6Z" style="fill: #ed7f74;"/>
+  <polygon id="Kazakhstan" points="1036 204 1036 198 1018 198 1018 186 1006 186 1006 180 952 180 952 198 916 198 916 216 922 216 922 222 940 222 940 228 928 228 928 234 934 234 934 240 952 240 952 228 970 228 970 234 988 233.9 988 246 994 246 994 240 1006 240 1006 234 1036 234 1036 216 1048.1 216 1048.1 204 1036 204" style="fill: #559aff;"/>
+  <polygon id="Tadjikistan" points="1024 258 1024 252 1006 252 1006 246 1000 246 1000 270 1006 270 1006 264 1018 264 1018 270 1030 270 1030 258 1024 258" style="fill: #559aff;"/>
+  <polygon id="Turkmenistan" points="940 240 940 246 946 246 946 258 952 258 952 270 958.2 270 958.2 264 976 264 976 270 982 270 982 276 994 276 994 270 1000 270 1000 264 994 264 994 258 982 258 982 252 970 252 970 240 958 240 958 246 952 246 952 240 940 240" style="fill: #559aff;"/>
+  <polygon id="Uzbekistan" points="952 228 970 228 970 234 988 234 988 246 994 246 994 240 1012 240 1012 246 1000 246 1000 264 994 264 994 258 982 258 982 252 970 252 970 240 958 240 958 246 952 246 952 228" style="fill: #559aff;"/>
+  <polygon id="Kyrgyzstan" points="1006 234 1006 240 1012 240 1012 246 1006 246 1006 252 1030 252 1030 246 1042 246 1042 234 1006 234" style="fill: #559aff;"/>
+  <polygon id="Mexico" points="406 348 394 348 394 354 388 354 388 360 370 360 370 318 364 318 364 300 352 300 352 282 310 282 310 336 316 336 316 288 322 288 322 306 328 306 328 330 334 330 334 360 346 360 346 366 352 366 352 372 376 372 376 366 400 366 400 360 406 360 406 348" style="fill: #8ded4f;"/>
+  <rect id="Guatemala" x="376" y="366" width="18" height="18" style="fill: #8ded4f;"/>
+  <rect id="Belize" x="394" y="366" width="6" height="12.1" style="fill: #8ded4f;"/>
+  <rect id="El_Salvador" data-name="El Salvador" x="388" y="384" width="12" height="6" style="fill: #8ded4f;"/>
+  <polygon id="Nicaragua" points="418 384 406 384 406 389.9 400 389.9 400 402 412 402 412 389.9 418 389.9 418 384" style="fill: #8ded4f;"/>
+  <polygon id="Costa_Rica" data-name="Costa Rica" points="411.9 402 406 402 406 408.1 411.9 408.1 411.9 414 418 414 418 408.1 418 402 411.9 402" style="fill: #8ded4f;"/>
+  <rect id="Panama" x="418" y="414" width="18" height="6.1" style="fill: #8ded4f;"/>
+  <polygon id="Honduras" points="418 378 406 378 400 378 394 378 394 384 400 384 400 390 406 390 406 384 418 384 418 378" style="fill: #8ded4f;"/>
+  <polygon id="Ecuador" points="442 456 424 456 424 486 430 486 430 474 442 474 442 456" style="fill: #e7f99b;"/>
+  <polygon id="Colombia" points="466 396 454 396 454 402 442 402 442 414 436 414 436 444 429.9 444 429.9 456 442 456 442 462 448 462 448 468 460 468 460 480 466 480 466 450 478 450 478 426 460 426 460 402 466 402 466 396" style="fill: #e7f99b;"/>
+  <polygon id="Peru" points="478 544.7 478 552 466 552 466 546 454 546 454 540 436 540 436 516 430 516 430 498 424 498 424 486 430 486 430 474 442 474 442 462 448 462 448 468 460 468 460 485.3 454 485.3 454 510 466 510 466 516 472 516 472 544.7 478 544.7" style="fill: #e7f99b;"/>
+  <polygon id="Venezuela" points="508 414 502 414 502 402 466 402 466 414 460 414 460 426 478 426 478 456 490 456 490 438 502 438 502 426 508 426 508 414" style="fill: #e7f99b;"/>
+  <polygon id="Suriname" points="520 426 520 431.2 514 431.2 514 438 520 438 520 450 532 450 532 426 520 426" style="fill: #e7f99b;"/>
+  <polygon id="Guyana" points="520 431.2 520 426 514 426 514 414 508 414 508 426 502 426 502 438 508 438 508 456 514 456 514 450 520 450 520 438 514 438 514 431.2 520 431.2" style="fill: #e7f99b;"/>
+  <polygon id="French_Guiana" data-name="French Guiana" points="544 432 532 432 532 450 538 450 538 444 544 444 544 432" style="fill: #e7f99b;"/>
+  <polygon id="Bolivia" points="520 545.2 520 558 508 558 508 570 502 570 502 576 484 576 484 570 478 570 478 544.7 472 544.7 472 516 478 516 478 510 490 510 490 528 508 528 508 545.2 520 545.2" style="fill: #e7f99b;"/>
+  <polygon id="Chile" points="526 738 526 732 514 732 514 718 502 718 502 682 496 682 496 670.1 490 670.1 490 628.2 484 628 484 582 490 582 490 576 484 576 484 570 478 570 478 552 472 552 472 618 478 618 478 660 484 660 484.1 678 490 678 490 702 496 702 496 726 502 726 502 732 508 732 508 738 520 738 520 744 532 744 532 738 526 738" style="fill: #e7f99b;"/>
+  <polygon id="Argentina" points="544 744 532 744 532 738 526 738 526 732 514 732 514 718 502 718 502 682 496 682 496 670.1 490 670.1 490 628.2 484 628.2 484 582 490 582 490 576 502 576 502 570 508 570 508 580.1 520 580.1 520 586 526 586 526 598 531.2 598 538 598 538 588 544 588 544 606 532 606 532 636 538 636 538 660 526 660 526 672 520 672 520 726 526 726 526 732 538 732 538 738 544 738 544 744" style="fill: #e7f99b;"/>
+  <polygon id="Paraguay" points="538 570 520 570 520 558 508 558 508 580.1 520 580.1 520 586 526 586 526 598 538 598 538 570" style="fill: #e7f99b;"/>
+  <polygon id="Uruguay" points="538 618 538 612 532 612 532 618 532 636 550 636 550 618 538 618" style="fill: #e7f99b;"/>
+  <rect id="Malvinas" x="550" y="720" width="12" height="6" style="fill: #e7f99b;"/>
+  <polygon id="Brazil" points="610 480 592 480 592 474 568 474 568 462 550 462 550 444 538 444 538 450 514 450 514 456 508 456 508 438 490 438 490 456 478 456 478 450 466 450 466 480 460 480 460 485.3 454 485.3 454 510 466 510 466 516 478 516 478 510 490 510 490 528 508 528 508 545.2 520 545.2 520 570 531.1 570 538 570 538 580.4 538 588 544 588 544 598.9 544 606 537.2 606 532 606 532 612 538 612 538 618 550 618 550 630 556 630 556 612 562 612 562 588 568 588 568 576 592 576 592 564 598 564 598 510 610 510 610 480" style="fill: #e7f99b;"/>
+  <polygon id="Cuba" points="448 342 448 336 418 336 418 342 442 342 442 348 454 348 454 342 448 342" style="fill: #dff26d;"/>
+  <rect id="Cayman_Islands" data-name="Cayman Islands" x="424" y="354.1" width="5.9" height="5.9" style="fill: #dff26d;"/>
+  <rect id="Jamaica" x="442" y="360" width="6" height="6" style="fill: #dff26d;"/>
+  <rect id="British_Virgin_Islands" data-name="British Virgin Islands" x="502" y="348" width="6" height="6" style="fill: #dff26d;"/>
+  <rect id="Montserrat" x="514" y="366.1" width="5.9" height="5.9" style="fill: #dff26d;"/>
+  <rect id="United_States_Virgin_Islands" data-name="United States Virgin Islands" x="502" y="360" width="6" height="6" style="fill: #dff26d;"/>
+  <rect id="Martinique" x="526" y="378" width="6.1" height="6" style="fill: #dff26d;"/>
+  <rect id="Saint_Lucia" data-name="Saint Lucia" x="520" y="390" width="6" height="6" style="fill: #dff26d;"/>
+  <rect id="Barbados" x="532" y="396" width="6" height="6" style="fill: #dff26d;"/>
+  <rect id="Guadeloupe" x="526" y="366" width="6.1" height="6" style="fill: #dff26d;"/>
+  <rect id="Saint_Vincent_and_the_Grenadines" data-name="Saint Vincent and the Grenadines" x="508" y="390" width="6" height="6" style="fill: #dff26d;"/>
+  <rect id="Dominica" x="514" y="378" width="6" height="6" style="fill: #dff26d;"/>
+  <rect id="Grenada" x="496" y="390" width="6" height="6" style="fill: #dff26d;"/>
+  <rect id="Curaçao" x="472" y="390" width="6" height="6" style="fill: #dff26d;"/>
+  <rect id="Aruba" x="480" y="390" width="6" height="6" style="fill: #dff26d;"/>
+  <rect id="Trinidad_and_Tobago" data-name="Trinidad and Tobago" x="508" y="402" width="6" height="6" style="fill: #dff26d;"/>
+  <rect id="Anguilla" x="514" y="348" width="6" height="6" style="fill: #dff26d;"/>
+  <rect id="Sint_Maarten" data-name="Sint Maarten" x="514" y="358" width="6" height="6" style="fill: #dff26d;"/>
+  <rect id="Saint_Kitts_and_Nevis" data-name="Saint Kitts and Nevis" x="526" y="354" width="6" height="6" style="fill: #dff26d;"/>
+  <rect id="Antigua_and_Barbuda" data-name="Antigua and Barbuda" x="538" y="354" width="6" height="6" style="fill: #dff26d;"/>
+  <rect id="Bahamas" x="448" y="324" width="6" height="6" style="fill: #dff26d;"/>
+  <rect id="Turks_and_Caicos_Islands" data-name="Turks and Caicos Islands" x="466" y="336" width="6" height="6" style="fill: #dff26d;"/>
+  <rect id="Puerto_Rico" data-name="Puerto Rico" x="484" y="354" width="12" height="6" style="fill: #dff26d;"/>
+  <polygon id="Dominican_Republic" data-name="Dominican Republic" points="471.9 354 471.9 348.1 466 348.1 466 360 471.9 360 478 360 478 354 471.9 354" style="fill: #dff26d;"/>
+  <polygon id="Haiti" points="460 354 460 348 466 348.1 466 360 454 360 454 354 460 354" style="fill: #dff26d;"/>
+  <polygon id="Germany" points="796 191.7 796 186 790 186 790 192 778 192 778 198 771.9 198 771.9 204 778 204 778 222 790 222 790 216 796 216 796 204 801.8 204 801.8 191.7 796 191.7" style="fill: #6ddcfc;"/>
+  <rect id="Liechtenstein" x="784" y="222" width="6" height="6" style="fill: #6ddcfc;"/>
+  <g id="France">
+    <polygon points="772 222 772 228 777.8 228 777.8 240 777.8 240 772 240 772 240 772 233.5 766.1 233.5 766 246 760 246 760 240 754 240 754 246 748 246 748 228 736 228 736 216.1 747.6 216.1 747.6 210 754 210 754 204 766 204 766 210 778 210 778 222 772 222" style="fill: #6ddcfc;"/>
+    <rect x="778" y="246" width="6" height="6" style="fill: #6ddcfc;"/>
+  </g>
+  <polygon id="Switzerland" points="784 222 772 222 772 228 777.8 228 784 228 784 222" style="fill: #6ddcfc;"/>
+  <polygon id="Belgium" points="771.9 198 771.9 210 766 210 766 204 759.8 204 759.8 198 771.9 198" style="fill: #6ddcfc;"/>
+  <rect id="Luxembourg" x="771.9" y="204" width="6.1" height="6" style="fill: #6ddcfc;"/>
+  <rect id="Netherlands" x="766" y="192" width="12" height="6" style="fill: #6ddcfc;"/>
+  <polygon id="Austria" points="790 216 790 228 795.6 228 808 228 808 222 808 216 790 216" style="fill: #6ddcfc;"/>
+  <rect id="Monaco" x="766.1" y="233.5" width="5.9" height="6.5" style="fill: #6ddcfc;"/>
+  <rect id="Andorra" x="754" y="240" width="6" height="6" style="fill: #b6f1ff;"/>
+  <polygon id="Denmark" points="784 180 784 174.1 778 174.1 778 192 790 192 790 180 784 180" style="fill: #25f4f4;"/>
+  <polygon id="Ireland" points="728 192.1 722 192.1 722 198 716 198 716 180 722 180 722 186 728 186 728 192.1" style="fill: #25f4f4;"/>
+  <g id="United_Kingdom" data-name="United Kingdom">
+    <rect x="722" y="180" width="6" height="6" style="fill: #25f4f4;"/>
+    <polygon points="748 180 748 174 742 174 742 162 737.2 162 735.7 162 730 162 730 174 736 174 736 180 742 180 742 186 736 186 736 198 730 198 730 204 742 204 742 198 747.8 198 754 198 754 180 748 180" style="fill: #25f4f4;"/>
+  </g>
+  <polygon id="Lithuania" points="838 174 838 186 826 186 826 180 820 180 820 174 838 174" style="fill: #25f4f4;"/>
+  <polygon id="Sweden" points="820 114 802 114 802 120 796 120 796 132 790 132 790 180 802 180 802 168 808 168 808 138 814.1 138 814.1 132 820 132 820 114" style="fill: #25f4f4;"/>
+  <polygon id="Norway" points="814 102 814 108 795.9 108 795.9 114 795.7 114 789.9 114 789.9 125.9 789.8 125.9 784 125.9 784 138 772 138 772 150 766 150 766 162 772 162 772 168 784 168 784 162 790 162 790 132 796 132 796 125.9 796 120 802 120 802 114 826 114 826 108 832 108 832 102 814 102" style="fill: #25f4f4;"/>
+  <polygon id="Latvia" points="838.1 168 826 168 826 174 838 174 838 180 844 180 844 168 838.1 168" style="fill: #25f4f4;"/>
+  <rect id="Estonia" x="826" y="162" width="12" height="6" style="fill: #25f4f4;"/>
+  <polygon id="Finland" points="838 138 832 138 832 108 826 108 826 114 820 114 820 144 814 144 814 156 832 156 832 150 838 150 838 138" style="fill: #25f4f4;"/>
+  <polygon id="Iceland" points="712 126 712 138 700 138 700 144 688 144 688 138 682 138 682 132 688 132 688 126 712 126" style="fill: #25f4f4;"/>
+  <rect id="Channel_Islands" data-name="Channel Islands" x="736.1" y="207" width="6" height="6" style="fill: #25f4f4;"/>
+  <polygon id="Greenland" points="730 48 706 48 706 42 658 42 658 48 628 48 628 54 610 54 610 60 592 60 592 66 598 66 598 72 610 72 610 96 616 96 616 114 610 114 610 120 604 120 604 150 610 150 610 156 622 156 622 144 628 144 628 132 634 132 634 126 652 126 652 120 664 120 664 114 688 114 688 108 676 108 676 102 688 102 688 108 694 108 694 96 682 96 682 90 700 90 700 66 706 66 706 60 718 60 718 54 730 54 730 48" style="fill: #49c98f;"/>
+  <g id="Canada">
+    <polygon points="490 77.9 472 77.9 472 72 441.9 72 441.9 84 454 84 454 102 484 102 484 90 490 90 490 77.9" style="fill: #49c98f;"/>
+    <polygon points="490 66.1 490 60 466 60 466 66.1 478 66.1 478 72 502 72 502 66.1 490 66.1" style="fill: #49c98f;"/>
+    <rect x="508" y="66" width="18.3" height="6" style="fill: #49c98f;"/>
+    <polygon points="526 222.1 526 228 520 228 520 234 532 234 532 228 538 228 538 222.1 526 222.1" style="fill: #49c98f;"/>
+    <rect x="327.9" y="180" width="6.1" height="18" style="fill: #49c98f;"/>
+    <polygon points="550 48 562 48 562 54 556 54 556 60 544 60 544 54 550 54 550 48" style="fill: #49c98f;"/>
+    <rect x="532" y="60" width="6" height="6" style="fill: #49c98f;"/>
+    <rect x="520" y="54" width="6" height="6" style="fill: #49c98f;"/>
+    <rect x="514" y="78" width="12" height="6" style="fill: #49c98f;"/>
+    <polygon points="502 78 508 78 508 90 496 90 496 84 502 84 502 78" style="fill: #49c98f;"/>
+    <polygon points="568 114 568 96 562 96 562 90 550 90 550 84 538 84 538 90 532 90 532 84 526 84 526 90 520 90 520 96 526 96 532 96 532 102 550 102 550 120 544 120 544 126 538 126 538 138 544 138 544 144 556 144 556 138 562 138 562 126 556 126 556 120 568 120 568 126 580 126 580 114 568 114" style="fill: #49c98f;"/>
+    <polygon points="568 42 568 48 580 48 580 54 568 54 568 60 562 60 562 66 550 66 550 72 532 72 532 78 562 78 562 72 568.1 72 568.1 66 574 66 574 60 586 60 586 54 604 54 604 48.1 622.1 48.1 622.1 41.9 568 42" style="fill: #49c98f;"/>
+    <polygon points="556 174 556 150 550 150 550 162 538 162 538 144 532 144 532 138 520 138 520 150 506 150 506 174 490 174.1 490 192.1 484 192.1 484 174.1 478 174.1 478 162 466 162 466 138 488 138 488 132.1 520 132.1 520 126 514 126 514 120 526 120 526 114 532 114 532 102 520 102 520 108 514 108 514 96 502 96 502 108 448 108 448 96 424 96 424 90 388 90 388 96 376 96 376 102 370 102 370 108.5 363 108.5 363 114 358 114 358 120 352 120 352 126 346 126 346 156 340 156 340 204 430 204 430 210 458.1 210 458.1 233.5 451.7 233.5 451.7 239.7 471 239.7 471 233.9 483.5 233.9 483.5 227.9 508 227.9 508 216 514 216 514 222.1 526 222.1 526 216.1 532 216.1 532 204 550 204 550 198 568 198 568 174 556 174" style="fill: #49c98f;"/>
+  </g>
+  <g id="United_States_of_America" data-name="United States of America">
+    <polygon points="508 216 508 227.9 483.5 227.9 483.5 233.9 471 233.9 471 239.7 451.7 239.7 451.7 233.5 458.1 233.5 458.1 210 430 210 430 204 328 204 328 210 304 210 304 276 310 276 310 282 352 282 352 300 364 300 364 318 370 318 370 324 376 324 376 306 412 306 412 300 430 300 430 324 442 324 442 300 454 300 454 282 472 282 472 254 496 254 496 234 514 234 514 222.1 514 216 508 216" style="fill: #49c98f;"/>
+    <g>
+      <rect x="232" y="144" width="24" height="5.9" style="fill: #49c98f;"/>
+      <polygon points="382 84 382 78 328 78 328 90 304 90 304 102 310 102 310 108 286 108 286 114 280 114 280 132 286 132 286 138 256 138 256 144.1 285.1 144.1 296 144.1 296 132 334 132 334 138 340 138 340 156 346 156 346 126 352 126 352 120 358 120 358 114 363 114 363 108.5 370 108.5 370 102 376 102 376 96 388 96 388 90 394 90 394 84 382 84" style="fill: #49c98f;"/>
+    </g>
+    <g>
+      <rect x="130" y="330" width="6" height="18" style="fill: #49c98f;"/>
+      <rect x="124" y="324" width="6" height="6" style="fill: #49c98f;"/>
+    </g>
+  </g>
+  <polygon id="Saint_Pierre_and_Miquelon" data-name="Saint Pierre and Miquelon" points="562 210 562 204 556 204 556 210 550.1 210 550 216 556 216 556 222.1 568 222.1 568 210 562 210" style="fill: #49c98f;"/>
+  <polygon id="Poland" points="832 186 832 210 808 210 808 204 801.8 204 801.8 191.7 796 191.7 796 186 832 186" style="fill: #34bde8;"/>
+  <polygon id="Hungary" points="826 210 814.1 210 814.1 216 808 216 808 222 819.8 222 819.8 216 826 216 826 210" style="fill: #34bde8;"/>
+  <polygon id="Slovakia" points="819.8 216 819.8 222 808 222 808 228 832 228 832 221.5 832 216 819.8 216" style="fill: #34bde8;"/>
+  <polygon id="Ukraine" points="892 203.9 892 222 880 222 880 228 874 228 874 234 868 234 868 222 862 222 862 234 850 234 850 228 856 228 856 216 844 216 844 216 826 216 826 210 832 210 832 198 874 198 874 203.9 892 203.9" style="fill: #34bde8;"/>
+  <polygon id="Belarus" points="855.9 180 856 198 832 198 832 186 838 186 838 180 855.9 180" style="fill: #34bde8;"/>
+  <g id="Russia">
+    <rect x="814" y="180" width="12" height="6" style="fill: #34bde8;"/>
+    <polygon points="1252 156 1252 144 1246 144 1246 132 1234 132 1234 120 1240 120 1240 96 1228 96 1228 84 1210 84 1210 78 1018 78 1018 66 982 66 982 72 958 72 958 78 952 78 952 96 946 96 946 102 952 102 952 108 958 108 958 119.8 952 119.8 952 108 946 108 946 102 940 102 940 90 928 90 928 108 916 108 916 114 885.8 114 885.8 119.8 874 119.8 874 126 868 126 868 138 856 138 856 130 850 130 850 126 868 126 868 114 850 114 850 108 832 108 832 138 838 138 838 150 832 150 832 156 838 156 838 168 844 168 844 180 855.9 180 856 198 874 198 874 203.9 892 203.9 892 222 886 222 886 240 910 240 910 246 928 246 928 240 922 240 922 216 916 216 916 198 952 198 952 180 1006 180 1006 186 1018 186 1018 198 1036 198 1036 204 1048.1 204 1048.1 192 1078 192 1078 186 1096 186 1096 192 1144 192 1144 174 1168 174 1168 186 1192 186 1192 192 1210 192 1210 222 1204 222 1204 228 1222 228 1222 186 1216 186 1216 180 1210 180 1210 174 1204 174 1204 162 1180 162 1180 132.1 1214 132.1 1214 126 1222 126 1222 144 1234 144 1234 156 1246 156 1246 162 1252 162 1252 168 1258 168 1258 156 1252 156" style="fill: #34bde8;"/>
+    <rect x="1210" y="162" width="6" height="6" style="fill: #34bde8;"/>
+    <rect x="1216" y="168" width="6" height="6" style="fill: #34bde8;"/>
+    <rect x="1222" y="174" width="6" height="6" style="fill: #34bde8;"/>
+    <rect x="1228" y="180" width="6" height="6" style="fill: #34bde8;"/>
+    <rect x="1234" y="192" width="6" height="6" style="fill: #34bde8;"/>
+    <polygon points="898 84 898 78 910 78 910 72 892 72 892 78 886 78 886 102 904 102 904 96.1 892 96.1 892 84 898 84" style="fill: #34bde8;"/>
+  </g>
+  <polygon id="Romania" points="850 234 850 222 844 222 844 216 832 216 832 234 837.9 234 837.9 240 846.1 240 850.1 240 856 240 856 234 850 234" style="fill: #34bde8;"/>
+  <polygon id="Czechia" points="808 210 808 204 796 204 796 216 801.6 216 807.8 216 814.1 216 814.1 210 808 210" style="fill: #34bde8;"/>
+  <polygon id="Moldova" points="856 216 856 228 850 228 850 222 844 222 844 216 856 216" style="fill: #34bde8;"/>
+  <g id="Australia">
+    <polygon points="1336 570 1336 539.9 1330.1 539.9 1330.1 522 1323.8 522 1324 540 1318 540 1318 558 1312 558 1312 564 1308 564 1308 552 1294.1 552 1294.2 540 1300.1 540 1300 528 1288 528 1288 522 1276 522 1276 526.7 1276 534 1270 534 1270 546 1264 546 1264 540 1252 540 1252 552 1240 552 1240 558 1234 558 1234 570 1204 570 1204 582 1198 582 1198 600 1192 600 1192 630 1186 630 1186 642 1180 642 1180 648 1210 648 1210 642 1228 642 1228 636 1252 636 1252 654 1264 654 1264 678 1300 678 1300 666 1306 666 1306 654 1318 654 1318 648 1324 648 1324 642 1330.1 642 1330.1 630 1336 630 1336 618 1342 618 1342 570 1336 570" style="fill: #f95ff5;"/>
+    <polygon points="1276 690 1264 690 1264 695.7 1258 695.7 1258 708 1270.1 708 1270.1 702 1276 702 1276 690" style="fill: #f95ff5;"/>
+  </g>
+  <g id="New_Zealand" data-name="New Zealand">
+    <polygon points="1378 672 1378 689.8 1372 689.8 1372 696 1366 696 1366.1 702 1360 702 1360 708 1372.1 708 1372.1 702 1378.2 702 1378.2 696 1384.2 696 1384.2 672 1378 672" style="fill: #f95ff5;"/>
+    <polygon points="1354 708 1342 708 1342 714 1329.9 714 1329.9 720 1317.9 720 1317.9 726 1312 726 1312 732 1306 732 1306 738 1318 738 1318 732.1 1329.9 732.1 1329.9 726 1342 726 1342 720 1348.1 720 1348.1 714 1354 714 1354 708" style="fill: #f95ff5;"/>
+  </g>
+  <rect id="Samoa" x="52" y="540" width="12" height="6" style="fill: #ffa4fd;"/>
+  <rect id="American_Samoa" data-name="American Samoa" x="70" y="546" width="6" height="6" style="fill: #ffa4fd;"/>
+  <rect id="Wallis_and_Futuna_Islands" data-name="Wallis and Futuna Islands" x="34" y="546" width="6" height="6" style="fill: #ffa4fd;"/>
+  <rect id="Niue" x="76" y="570" width="6" height="6" style="fill: #ffa4fd;"/>
+  <rect id="Tonga" x="64" y="588" width="6" height="6" style="fill: #ffa4fd;"/>
+  <g id="Cook_Islands" data-name="Cook Islands">
+    <rect x="160" y="546" width="6" height="6" style="fill: #ffa4fd;"/>
+    <rect x="178" y="552" width="6" height="6" style="fill: #ffa4fd;"/>
+    <rect x="190" y="558" width="6" height="6" style="fill: #ffa4fd;"/>
+    <rect x="190" y="576" width="6" height="6" style="fill: #ffa4fd;"/>
+  </g>
+  <g id="French_Polynesia" data-name="French Polynesia">
+    <rect x="184" y="516" width="6" height="6" style="fill: #ffa4fd;"/>
+    <rect x="178" y="504" width="6" height="6" style="fill: #ffa4fd;"/>
+  </g>
+  <g id="Tokelau">
+    <rect x="46" y="474" width="6" height="6" style="fill: #ffa4fd;"/>
+    <rect x="52" y="486" width="6" height="6" style="fill: #ffa4fd;"/>
+  </g>
+  <rect id="Tuvalu" x="28" y="486" width="6" height="6" style="fill: #ffa4fd;"/>
+  <g id="Papua_New_Guinea" data-name="Papua New Guinea">
+    <polygon points="1354 510 1354 492 1348 492 1348 480 1342 480 1342 474 1330 474 1330 510 1336 510 1342 510 1348 510 1348 516 1354 516 1366 516 1366 510 1354 510" style="fill: #cd31dd;"/>
+    <rect x="1360" y="486" width="12" height="6" style="fill: #cd31dd;"/>
+    <polygon points="1366 474 1366 480 1372 480 1372 486 1378 486 1378 480 1378 474 1366 474" style="fill: #cd31dd;"/>
+  </g>
+  <rect id="New_Caledonia" data-name="New Caledonia" x="1396" y="582" width="6" height="18" style="fill: #cd31dd;"/>
+  <g id="Solomon_Islands" data-name="Solomon Islands">
+    <rect x="1384" y="492" width="6" height="12" style="fill: #cd31dd;"/>
+    <rect x="1396" y="498" width="6" height="6" style="fill: #cd31dd;"/>
+    <rect x="1390" y="510" width="12" height="6" style="fill: #cd31dd;"/>
+    <rect x="1408" y="510" width="6" height="12" style="fill: #cd31dd;"/>
+  </g>
+  <g id="Vanuatu">
+    <rect x="1420" y="546" width="6" height="12" style="fill: #cd31dd;"/>
+    <rect x="1420" y="564" width="6" height="6" style="fill: #cd31dd;"/>
+  </g>
+  <g id="Fiji">
+    <rect x="1456" y="570" width="6" height="6" style="fill: #cd31dd;"/>
+    <rect x="1462" y="564" width="6" height="6" style="fill: #cd31dd;"/>
+  </g>
+  <rect id="Kiribati" x="1414" y="426" width="6" height="6" style="fill: #a71ddb;"/>
+  <rect id="Micronesia_States" data-name="Micronesia States" x="1366" y="414" width="6" height="6" style="fill: #a71ddb;"/>
+  <rect id="Marshall_Islands" data-name="Marshall Islands" x="1396" y="414" width="6" height="6" style="fill: #a71ddb;"/>
+  <rect id="Nauru" x="1390" y="444" width="6" height="6" style="fill: #a71ddb;"/>
+  <rect id="Northern_Mariana_Islands" data-name="Northern Mariana Islands" x="1336" y="366" width="6" height="6" style="fill: #a71ddb;"/>
+  <rect id="Palau" x="1294" y="414" width="6" height="6" style="fill: #a71ddb;"/>
+  <polygon id="Myanmar" points="1144 354 1144 354 1150 354 1150 342 1144 342 1144 330 1132 330 1132 306 1126 306 1126 318 1120 318 1120 330 1114 330 1114 336 1108 336 1108 342 1114 342 1114 348 1120 348 1120 354 1126 354 1126 360 1132 360 1132 366 1132 372 1138 372 1144 372 1144 396 1150 396 1150 372 1150 366 1144 366 1144 360 1144 354" style="fill: #7027e2;"/>
+  <g id="Viet_Nam" data-name="Viet Nam">
+    <polygon points="1186 372 1186 366 1180 366 1180 378 1186 378 1186 396 1180 396 1180 402 1174 402 1174 414 1180 414 1180 408 1192 408 1192 402 1192 396 1192 372 1186 372" style="fill: #7027e2;"/>
+    <polygon points="1174 354 1174 348 1180 348 1180 342 1174 342 1174 336 1156 336 1156 342 1162 342 1162 348 1168 348 1168 360 1174 360 1174 366 1180 366 1180 354 1174 354" style="fill: #7027e2;"/>
+  </g>
+  <polygon id="Thailand" points="1168 390 1168 384 1174 384 1174 372 1168 372 1168 366 1162 366 1162 366 1162 360 1156 360 1156 354 1144 354 1144 366 1150 366 1150 390 1150 414 1156 414 1156 420 1156 426 1162 426 1168 426 1168 420 1162 420 1162 408 1156 408 1156 390 1168 390" style="fill: #7027e2;"/>
+  <polygon id="Cambodia" points="1168 384 1168 402 1180 402 1180 396 1186 396 1186 390 1186 384 1168 384" style="fill: #7027e2;"/>
+  <polygon id="Laos" points="1180 378 1180 366 1174 366 1174 360 1168 360 1168 348 1162 348 1162 342 1150 342 1150 354 1156 354 1156 360 1162 360 1162 366 1168 366 1168 372 1174 372 1174 378 1174 384 1180 384 1186 384 1186 378 1180 378" style="fill: #7027e2;"/>
+  <rect id="Singapore" x="1174" y="444" width="6" height="6" style="fill: #7027e2;"/>
+  <rect id="Timor-Leste" x="1270" y="504" width="6" height="6" style="fill: #7027e2;"/>
+  <rect id="Brunei_Darussalam" data-name="Brunei Darussalam" x="1216" y="432" width="6" height="6" style="fill: #7027e2;"/>
+  <g id="Philippines">
+    <g>
+      <polygon points="1252 384 1252 378 1246 378 1246 372 1240 372 1240 354 1234 354 1234 378 1240 378 1240 390 1246 390 1246 384 1252 384" style="fill: #7027e2;"/>
+      <polygon points="1270 408 1264 408 1258 408 1258 402 1264 402 1264 396 1258 396 1258 390 1246 390 1246 402 1252 402 1252 408 1252 414 1246 414 1246 426 1252 426 1252 420 1258 420 1258 426 1264 426 1264 420 1270 420 1270 408" style="fill: #7027e2;"/>
+    </g>
+    <rect x="1234" y="396" width="6" height="6" style="fill: #7027e2;"/>
+    <rect x="1228" y="402" width="6" height="6" style="fill: #7027e2;"/>
+  </g>
+  <g id="Malaysia">
+    <polygon points="1174 438 1174 432 1174 426 1162 426 1162 438 1168 438 1168 444 1174 444 1174 444 1180 444 1180 438 1174 438" style="fill: #7027e2;"/>
+    <polygon points="1234 420 1234 438 1228 438 1228 444 1216 444 1216 450 1198 450 1198 444 1210 444 1210 438 1222 438 1222 420 1234 420" style="fill: #7027e2;"/>
+  </g>
+  <g id="Indonesia">
+    <rect x="1288" y="462" width="12" height="6" style="fill: #7027e2;"/>
+    <polygon points="1324 474 1324 468 1306 468 1306 474 1294 474 1294 486 1306 486 1312 486 1312 492 1318 492 1318 498 1312 498 1312 504 1318 504 1318 510 1330 510 1330 474 1324 474" style="fill: #7027e2;"/>
+    <g>
+      <polygon points="1186 486 1186 474 1180 474 1180 462 1174 462 1174 456 1168 456 1168 450 1162 450 1162 444 1156 444 1156 438 1150 438 1150 432 1144 432 1144 426 1138 426 1138 432 1138 438 1144 438 1144 444 1150 444 1150 450 1150 456 1156 456 1156 462 1162 462 1162 480 1174 480 1174 486 1186 486" style="fill: #7027e2;"/>
+      <polygon points="1192 492 1180 492 1180 498 1192 498 1192 504 1216 504 1216 498 1216 492 1192 492" style="fill: #7027e2;"/>
+    </g>
+    <rect x="1216" y="504" width="18" height="6" style="fill: #7027e2;"/>
+    <rect x="1234" y="510" width="6" height="6" style="fill: #7027e2;"/>
+    <rect x="1240" y="504" width="12" height="6" style="fill: #7027e2;"/>
+    <rect x="1258" y="504" width="12" height="6" style="fill: #7027e2;"/>
+    <polygon points="1234 438 1234 462 1228 462 1228 474 1204 474 1204 468 1198 468 1198 450 1216 450 1216 444 1228 444 1228 438 1234 438" style="fill: #7027e2;"/>
+    <rect x="1240" y="450" width="24" height="6" style="fill: #7027e2;"/>
+    <polygon points="1246 462 1240 462 1240 468 1234 468 1234 480 1240 480 1240 492 1246 492 1246 480 1252 480 1252 468 1258 468 1258 462 1246 462" style="fill: #7027e2;"/>
+    <rect x="1252" y="480" width="6" height="6" style="fill: #7027e2;"/>
+  </g>
+  <polygon id="Mongolia" points="1144 198 1144 192 1096 192 1096 186 1078 186 1078 192 1048.1 192 1048.1 204 1054 204 1054 210 1066 210 1066 222 1090 222 1090 234 1144.2 234 1144.2 216 1156 216 1156 210 1162 210 1162 198 1144 198" style="fill: #4b7cf7;"/>
+  <g id="Japan">
+    <polygon points="1258 210 1252 210 1246 210 1246 204 1240 204 1240 216 1246 216 1246 222 1246 228 1252 228 1252 222 1258 222 1258 210" style="fill: #4b7cf7;"/>
+    <polygon points="1264 246 1264 234 1258 234 1258 228 1252 228 1252 234 1252 258 1240 258 1240 270 1234 270 1234 276 1240 276 1240 282 1246 282 1246 288 1252 288 1252 282 1252 276 1252 270 1264 270 1264 258 1270 258 1270 246 1264 246" style="fill: #4b7cf7;"/>
+    <rect x="1246" y="300" width="6" height="6" style="fill: #4b7cf7;"/>
+    <rect x="1240" y="318" width="6" height="6" style="fill: #4b7cf7;"/>
+  </g>
+  <rect id="Taiwan" x="1222" y="318" width="6" height="18" style="fill: #4b7cf7;"/>
+  <polygon id="South_Korea" data-name="South Korea" points="1222 252 1222 246 1216 246 1216 270 1228 270 1228 252 1222 252" style="fill: #4b7cf7;"/>
+  <polygon id="North_Korea" data-name="North Korea" points="1210 228 1204 228 1198 228 1198 240 1204 240 1204 246 1204 252 1216 252 1216 246 1216 228 1210 228" style="fill: #4b7cf7;"/>
+  <rect id="Hong_Kong" data-name="Hong Kong" x="1192" y="342" width="6" height="6" style="fill: #4b7cf7;"/>
+  <g id="China">
+    <polygon points="1216 276 1198 276 1198 258 1204 258 1204 252 1180 252 1180 240 1198 240 1198 228 1204 228 1204 222 1210 222 1210 192 1192 192 1192 186 1168 186 1168 174 1144 174 1144 192 1144 198 1162 198 1162 210 1156 210 1156 216 1144.2 216 1144.2 234 1090 234 1090 222 1066 222 1066 210 1054 210 1054 204 1048.1 204 1048.1 216 1036 216 1036 234 1042 234 1042 246 1030 246 1030 252 1024 252 1024 258 1030 258 1030 270 1042 270 1042 276 1048 276 1048 288 1054 288 1054 300 1072 300 1072 306 1078 306 1078 312 1108 312 1108 306 1132 306 1132 330 1144 330 1144 342 1156 342 1156 336 1174 336 1174 342 1192 342 1192 336 1198 336 1210 336 1210 324 1216 324 1216 276" style="fill: #4b7cf7;"/>
+    <rect x="1186" y="354" width="6" height="6" style="fill: #4b7cf7;"/>
+  </g>
+  <rect id="Macao" x="1192" y="336" width="6" height="6" style="fill: #4b7cf7;"/>
+  <rect id="Faroe_Islands" data-name="Faroe Islands" x="736" y="138" width="6" height="12" style="fill: #25f4f4;"/>
+  <rect id="Bermuda" x="490" y="298" width="6" height="6" style="fill: #49c98f;"/>
+  <rect id="Micronesia" x="1347.1" y="414" width="6" height="6" style="fill: #a71ddb;"/>
+  <rect id="Melanesia" x="1324" y="512" width="6" height="6" style="fill: #cd31dd;"/>
+  <rect id="Polynesia" x="214" y="516" width="6" height="6" style="fill: #ffa4fd;"/>
+  <rect id="Isle_of_Man" data-name="Isle of Man" x="730" y="178" width="4" height="6" style="fill: #25f4f4;"/>
+  <rect id="Guam" x="1330" y="378" width="6" height="6" style="fill: #a71ddb;"/>
+  <rect id="Holy_See" data-name="Holy See" x="796" y="250" width="2" height="2" style="fill: #b6f1ff;"/>
+</svg>
