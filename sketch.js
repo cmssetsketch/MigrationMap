@@ -55,7 +55,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
 // ---------------- PRELOAD ----------------
     p.preload = function () {
-      svg = p.loadXML("MigMappF.svg");
+      svg = p.loadXML("MigMappFinalN.svg");
       png = p.loadImage("me-Icon-White.png");
       worldPopData = p.loadJSON("CountrySize.json");
       countryMig = p.loadJSON("MigWorld.json");
