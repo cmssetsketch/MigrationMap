@@ -21,6 +21,13 @@ let isEverybodyMode = true;
 document.addEventListener("DOMContentLoaded", () => {
   console.log("DOM ready → starting p5 sketch");
 
+   let translations = {};
+
+async function loadTranslations() {
+  const res = await fetch("./lang.json");
+  translations = await res.json();
+}  
+  
   new p5((p) => {
 
 
@@ -65,6 +72,7 @@ if (!response.ok) {
       webIcon = p.loadXML("./web-Icon.svg");
       instaIcon = p.loadXML("./instagram-icon.svg");
       mailIcon = p.loadXML("./mail.svg");
+      
       
       for (let i = 1; i <= 25; i++) {
         const name = p.nf(i, 2);
@@ -119,15 +127,14 @@ function isIPad() {
   return /iPad|Macintosh/.test(navigator.userAgent) && 'ontouchend' in document;
 }
 
- let translations = {};
 
-async function loadTranslations() {
-  const res = await fetch("./lang.json");
-  translations = await res.json();
-}  
-    function getCountryName(originalName) {
-  return translations[currentLang].countries[originalName] || originalName;
+function getCountryName(originalName) {
+  return (
+    translations?.[currentLang]?.countries?.[originalName] ||
+    originalName
+  );
 }
+
 // ---------------- SETUP ----------------
  p.setup = async function () {
   const container = document.getElementById("map-container");
