@@ -375,8 +375,13 @@ function setupInteractions(p) {
 
   requestSafeRedraw(p);
 }
-
   // ---------------- BUTTONS ----------------
+  const frBtn = document.getElementById("fr-btn");
+const enBtn = document.getElementById("eng-btn");
+
+frBtn.addEventListener("click", () => applyLanguage("fr"));
+enBtn.addEventListener("click", () => applyLanguage("en"));
+
 everybodyBtn.addEventListener("click", () => {
   setMode(true);
   buttons.forEach(b => generateSquaresForButton(b));
@@ -542,28 +547,23 @@ function requestSafeRedraw(p) {
 // -------------------- POPINFO CONTENT --------------------
 function showPopInfo() {
   popInfo.innerHTML = `
-    <p>Welcome,</p>
+   <p  <span data-i18n="popup.welcome"></span></p>
 
-      <p>In here, <strong>humans are particles,</strong><br>
-      their shape and color represent where they started.
-    </p>
+      <p <span data-i18n="popup.particles"></span></p>
+      <p <span data-i18n="popup.origin"></span></p>
+    
 <span id="originCountry"></span><br>
 
-<p>
-  Together they compose patterns.<br>
-  When a pattern forms <strong>inside a border, we call it a population.</strong>
-</p>
+<p><span data-i18n="popup.together"></span><br>
+<p><span data-i18n="popup.population"></span></p>
+   
     <div id="patternLines"></div>
-          <p> 
-When a particle differs from the group,<br> <strong> we call it a
-      migrant.</strong>
-      </p>
+   <p><span <data-i18n="popup.nmigrant"></span><</p>
       
 <div id="popCompass" class="popCompass"></div>
     
     <p class="popup-note">
-      Based on the United Nations dataset
-      <em>International Migrant Stock 2024</em>
+       <p> <span data-i18n="popup.source"></span></p>
     </p>
 
     <div id="popContact" class="popContact"></div>
