@@ -625,7 +625,7 @@ compassContainer.appendChild(imgC);         // add to container
   patternContainer.style.alignItems = "center";
   patternContainer.style.paddingTop = "10px";
 patternContainer.style.paddingBottom = "20px";
-  function createMiniShapeBlock(shapeId, color, size = 10) {
+  function createMiniShapeBlock(shapeId, color, size = 8) {
     const block = document.createElement("div");
     block.style.width = `${size}px`;
     block.style.height = `${size}px`;
@@ -639,11 +639,11 @@ patternContainer.style.paddingBottom = "20px";
   const mainShapeId = countryToShape[mainButton.originalName];
   const mainColor = getColorForCountry(mainButton.originalName);
 
-  for (let lineIndex = 0; lineIndex < 4; lineIndex++) {
+  for (let lineIndex = 0; lineIndex < 5; lineIndex++) {
     const line = document.createElement("div");
     line.style.display = "flex";
 
-    for (let i = 0; i < 20; i++) {
+    for (let i = 0; i < 25; i++) {
       let shapeId = mainShapeId;
       let color = mainColor;
 
