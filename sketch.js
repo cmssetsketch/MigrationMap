@@ -9,7 +9,7 @@ let countryMig;
 let dataMig = {};
 let selectedButton = null;
 let font;
-
+let currentLang = "en";
 let zoom = 1;
 let MIN_ZOOM = 1;
 let offscreen;
@@ -119,7 +119,15 @@ function isIPad() {
   return /iPad|Macintosh/.test(navigator.userAgent) && 'ontouchend' in document;
 }
 
-    
+ let translations = {};
+
+async function loadTranslations() {
+  const res = await fetch("./lang.json");
+  translations = await res.json();
+}  
+    function getCountryName(originalName) {
+  return translations[currentLang].countries[originalName] || originalName;
+}
 // ---------------- SETUP ----------------
  p.setup = async function () {
   const container = document.getElementById("map-container");
@@ -138,7 +146,8 @@ function isIPad() {
     createButtonsFromDOM();
     initAllCountryData();
     initData(p);
-
+await loadTranslations();
+applyLanguage("en");
 // Squares
     buttons.forEach(b => generateSquaresForButton(b));
     buttonsReady = true; 
@@ -181,6 +190,24 @@ if (Math.abs(zoomVelocity) > 0.00001) {
 
 });
 
+function applyLanguage(lang) {
+  currentLang = lang;
+
+  document.querySelectorAll("[data-i18n]").forEach(el => {
+    const key = el.dataset.i18n; // e.g. "popup.welcome"
+    const value = key.split(".").reduce(
+      (obj, k) => obj && obj[k],
+      translations[lang]
+    );
+
+    if (value) el.innerHTML = value;
+  });
+
+  // Refresh popups if open
+  if (popInfo.classList.contains("active")) {
+    showPopInfo();
+  }
+}
 
 function getSVGShapes(xml) {
   if (!xml) return [];
