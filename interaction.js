@@ -572,9 +572,9 @@ function showPopInfo() {
     <div id="popContact" class="popContact"></div>
 
     <div class="info-icons">
-      <a href="mailto:cmsset@gmail.com"><img src="./mail.svg"></a>
-      <a href="https://chloe-msset.com/art" target="_blank"><img src="./web-Icon.svg"></a>
-      <a href="https://www.instagram.com/chloemsset/" target="_blank"><img src="./instagram-icon.svg"></a>
+      <a href="mailto:cmsset@gmail.com"><img src="mail.svg"></a>
+      <a href="https://chloe-msset.com/art" target="_blank"><img src="web-Icon.svg"></a>
+      <a href="https://www.instagram.com/chloemsset/" target="_blank"><img src="instagram-icon.svg"></a>
     </div>
   `;
 
