@@ -273,7 +273,7 @@ gap: 20px;
 }
 .popCompass {
   display: block; 
-  height: clamp(15px, 20vw, 50px);
+  height: clamp(25px, 20vw, 50px);
   margin:20px 0px;
   width: auto; 
 }
