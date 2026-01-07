@@ -544,7 +544,6 @@ function requestSafeRedraw(p) {
 // -------------------- POPINFO CONTENT --------------------
 function showPopInfo() {
   popInfo.innerHTML = `
-   <p>Welcome,</p>
 <p>In this world, humans are particles,</br>
 their shape and color tell us where they started.</p>
 
