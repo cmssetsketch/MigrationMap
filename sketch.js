@@ -140,6 +140,8 @@ function getCountryName(originalName) {
   const container = document.getElementById("map-container");
   const toolbar = document.getElementById("toolbar");
 
+  await loadTranslations();
+applyLanguage("en");
 // Create canvas AFTER container has correct height
   const c = p.createCanvas(container.clientWidth, container.clientHeight);
   c.parent("p5-wrapper");
@@ -149,8 +151,7 @@ function getCountryName(originalName) {
  // Inject SVG FIRST
     await injectSvgFromUrl("MigMappFinalN.svg");
    resizeMapContainer();
-   await loadTranslations();
-applyLanguage("en");
+
     createButtonsFromDOM();
     initAllCountryData();
     initData(p);
