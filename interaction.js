@@ -542,20 +542,20 @@ function requestSafeRedraw(p) {
 // -------------------- POPINFO CONTENT --------------------
 function showPopInfo() {
   popInfo.innerHTML = `
-    <p><strong>Welcome,</strong></p>
+    <p>Welcome,</p>
 
       <p>In here, <strong>humans are particles,</strong><br>
       their shape and color represent where they started.
     </p>
 <span id="originCountry"></span><br>
 
-    <p>
-      Together they compose patterns,<br>
-      When a pattern happens inside a border, <br><strong> we call it population.<br></strong>
+<p>
+  Together they compose patterns.<br>
+  When a pattern forms <strong>inside a border, we call it a population.</strong>
 </p>
     <div id="patternLines"></div>
           <p> 
-When a particle differs from the group,<br> We call it <strong> a
+When a particle differs from the group,<br> <strong> we call it a
       migrant.</strong>
       </p>
       
