@@ -58,13 +58,13 @@ if (!response.ok) {
 
 // ---------------- PRELOAD ----------------
     p.preload = function () {
-      svg = p.loadXML("MigMappFinalN.svg");
+      svg = p.loadXML("./MigMappFinalN.svg");
       png = p.loadImage("me-Icon-White.png");
       worldPopData = p.loadJSON("CountrySize.json");
       countryMig = p.loadJSON("MigWorld.json");
-      webIcon = p.loadXML("web-Icon.svg");
-      instaIcon = p.loadXML("instagram-icon.svg");
-      mailIcon = p.loadXML("mail.svg");
+      webIcon = p.loadXML("./web-Icon.svg");
+      instaIcon = p.loadXML("./instagram-icon.svg");
+      mailIcon = p.loadXML("./mail.svg");
       
       for (let i = 1; i <= 25; i++) {
         const name = p.nf(i, 2);
