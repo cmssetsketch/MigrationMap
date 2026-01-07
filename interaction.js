@@ -544,18 +544,18 @@ function showPopInfo() {
   popInfo.innerHTML = `
     <p><strong>Welcome,</strong></p>
 
-      <p>In here,<strong>humans are particles,</strong><br>
-      their shape and color represent where they started
+      <p>In here, <strong>humans are particles,</strong><br>
+      and their shape and color represent where they started.
     </p>
 <span id="originCountry"></span><br>
 
     <p>
-      Together they compose patterns.<br>
-      <strong>When a pattern fills a territory, <br>it forms a population.</strong>
-
+      Together they compose patterns,<br>
+      when a pattern fits inside a border, <br><strong>it forms a population.</strong>
+If a particle differs from its neighbors,<br> we call it <strong> a
+      migrant.</strong></p>
     <div id="patternLines"></div>
-     </p>If a particle differs from its neighbors,<br> we call it <strong> a
-      migrant</strong>.
+     
       
 <div id="popCompass" class="popCompass"></div>
     
