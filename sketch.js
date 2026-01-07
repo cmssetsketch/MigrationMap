@@ -29,7 +29,10 @@ document.addEventListener("DOMContentLoaded", () => {
       try {
         const response = await fetch(url);
         if (!response.ok) return null;
-
+if (!response.ok) {
+  console.error("Failed to load SVG:", url);
+  return null;
+}
         const svgText = await response.text();
         const wrapper = document.getElementById("svg-wrapper");
         wrapper.innerHTML = svgText;
@@ -81,14 +84,8 @@ function resizeMapContainer() {
   const style = getComputedStyle(document.documentElement);
   const topMargin = parseFloat(style.getPropertyValue("--top-margin")) || 20;
   const bottomMargin = parseFloat(style.getPropertyValue("--bottom-margin")) || 20;
-
-  // toolbar height
   const toolbarHeight = toolbar.getBoundingClientRect().height || 40;
-
-  // calculate available height
   let availableHeight = vh - topMargin - bottomMargin - toolbarHeight;
-
-  // cap max-height to 1000px
   availableHeight = Math.min(availableHeight, 1000);
 
   // set container height
@@ -117,7 +114,7 @@ function resizeMapContainer() {
   }
 }
 
-// iPad detection (still useful if you want custom tweaks)
+// iPad detection ?
 function isIPad() {
   return /iPad|Macintosh/.test(navigator.userAgent) && 'ontouchend' in document;
 }
@@ -136,11 +133,8 @@ function isIPad() {
 
  // Inject SVG FIRST
     await injectSvgFromUrl("/MigMappFinalN.svg");
-//MIN_ZOOM = 1;  // 1 = fully fitted
-//zoom = MIN_ZOOM; // start zoomed to fit
-
    resizeMapContainer();
-   container.style.visibility = "visible";
+   
     createButtonsFromDOM();
     initAllCountryData();
     initData(p);
@@ -152,7 +146,7 @@ togglePopInfo(true);
     p.noLoop(); // redraw only when needed
     p.redraw();
     setupInteractions(p);
-
+container.style.visibility = "visible";
     };
     
 
