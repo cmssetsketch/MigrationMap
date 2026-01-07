@@ -198,24 +198,6 @@ if (Math.abs(zoomVelocity) > 0.00001) {
 
 });
 
-function applyLanguage(lang) {
-  currentLang = lang;
-
-  document.querySelectorAll("[data-i18n]").forEach(el => {
-    const key = el.dataset.i18n; // e.g. "popup.welcome"
-    const value = key.split(".").reduce(
-      (obj, k) => obj && obj[k],
-      translations[lang]
-    );
-
-    if (value) el.innerHTML = value;
-  });
-
-  // Refresh popups if open
-  if (popInfo.classList.contains("active")) {
-    showPopInfo();
-  }
-}
 
 function getSVGShapes(xml) {
   if (!xml) return [];
