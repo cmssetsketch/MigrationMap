@@ -545,22 +545,22 @@ function showPopInfo() {
     <p><strong>Welcome to Migration</strong></p>
 
       <p>In here, <strong>humans are particles filling a territory.</strong><br>
-      Their shape and color represent where we originated from.
+      Our shape and color represent where we come from.
     </p>
 <span id="originCountry"></span><br>
 
 
     <p>
-      Together we compose patterns.<br>
-      <strong>When a pattern is inside a border, it forms a population.</strong>
+      Together they compose patterns.<br>
+      <strong>When a pattern fits inside a border, it forms a population.</strong>
     </p>
 
     <div id="patternLines"></div>
 
     <p>
-      When a particle differs from most of its neighbors, we call it a
-      <strong>migrant</strong>.<br>
-      Let color be your compass to see how far he has traveled.
+      When a particle differs from its neighbors, we call it <strong> a
+      migrant</strong>.<br>
+      The stronger it contrast with the group, the farther it has traveled.
     </p>
 <div id="popCompass" class="popCompass"></div>
     
