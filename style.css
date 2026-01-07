@@ -274,7 +274,7 @@ gap: 20px;
 .popCompass {
   display: block; 
   height: clamp(20px, 20vw, 60px);
-  margin:20px 10px;
+  margin:20px 0px;
   width: auto; 
 }
 
@@ -286,7 +286,7 @@ gap: 20px;
   font-size: 11px;
   opacity: 0.7;
   margin-top: 20px;
-  margin-bottom: 20px;
+  margin-bottom: 30px;
 }
 
 #originCountry {
