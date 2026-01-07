@@ -149,12 +149,12 @@ function getCountryName(originalName) {
  // Inject SVG FIRST
     await injectSvgFromUrl("MigMappFinalN.svg");
    resizeMapContainer();
-   
+   await loadTranslations();
+applyLanguage("en");
     createButtonsFromDOM();
     initAllCountryData();
     initData(p);
-await loadTranslations();
-applyLanguage("en");
+
 // Squares
     buttons.forEach(b => generateSquaresForButton(b));
     buttonsReady = true; 
