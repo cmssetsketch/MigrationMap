@@ -325,8 +325,8 @@ function setMode(everybody) {
   migrantBtn.classList.toggle("active", !everybody);
 }
 
-//const infoBtn = document.getElementById("info-btn");
-//const popInfo = document.getElementById("popInfo");
+const infoBtn = document.getElementById("info-btn");
+const popInfo = document.getElementById("popInfo");
 
 function togglePopInfo(forceOpen = false) {
   const isOpen = forceOpen || !popInfo.classList.contains("active");
