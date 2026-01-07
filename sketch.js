@@ -131,7 +131,7 @@ function isIPad() {
   p.pixelDensity(Math.min(2, window.devicePixelRatio || 1));
 
  // Inject SVG FIRST
-    await injectSvgFromUrl("MigMappFinalN.svg");
+    await injectSvgFromUrl("./MigMappFinalN.svg");
    resizeMapContainer();
 
     createButtonsFromDOM();
