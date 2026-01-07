@@ -26,7 +26,14 @@ async function loadTranslations() {
   const res = await fetch("./lang.json");
   translations = await res.json();
 }  
-  
+  function setLanguage(lang) {
+  currentLang = lang;
+
+  // If the popup is visible, rebuild its content in the new language
+  /*if (popInfo.classList.contains("active")) {
+    showPopInfo();
+  }*/
+}
   new p5((p) => {
 
 
