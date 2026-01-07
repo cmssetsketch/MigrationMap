@@ -544,6 +544,9 @@ function requestSafeRedraw(p) {
 // -------------------- POPINFO CONTENT --------------------
 function showPopInfo() {
   popInfo.innerHTML = `
+
+  <div id="popCompass" class="popCompass"></div>
+  
 <p>In this world, humans are particles,</br>
 their shape and color tell us where they started.</p>
 
@@ -555,7 +558,7 @@ If a pattern forms inside a border,</strong> we call it a population.</strong></
     <div id="patternLines"></div>
 <p>When a particle differs from it's neighbors,<strong><br> we call it a migrant.</strong> </p>
       
-<div id="popCompass" class="popCompass"></div>
+
     
 <p class="popup-note"
  <p>Based on the United Nations dataset <em>International Migrant Stock </em>(2024)</p>
