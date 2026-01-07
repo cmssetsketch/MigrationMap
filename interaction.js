@@ -325,8 +325,8 @@ function setMode(everybody) {
   migrantBtn.classList.toggle("active", !everybody);
 }
 
-const infoBtn = document.getElementById("info-btn");
-const popInfo = document.getElementById("popInfo");
+//const infoBtn = document.getElementById("info-btn");
+//const popInfo = document.getElementById("popInfo");
 
 function togglePopInfo(forceOpen = false) {
   const isOpen = forceOpen || !popInfo.classList.contains("active");
@@ -345,6 +345,7 @@ infoBtn.addEventListener("click", (e) => {
   e.stopPropagation();
   togglePopInfo();
 });
+
 function setupInteractions(p) {
   const mapContainer = document.getElementById("map-container");
   
@@ -376,11 +377,6 @@ function setupInteractions(p) {
   requestSafeRedraw(p);
 }
   // ---------------- BUTTONS ----------------
-const frBtn = document.getElementById("fr-btn");
-const enBtn = document.getElementById("eng-btn");
-
-frBtn.addEventListener("click", () => setLanguage("fr"));
-enBtn.addEventListener("click", () => setLanguage("en"));
 
 
 everybodyBtn.addEventListener("click", () => {
@@ -547,24 +543,23 @@ function requestSafeRedraw(p) {
 
 // -------------------- POPINFO CONTENT --------------------
 function showPopInfo() {
-  const t = translations[currentLang] || translations.en;
   popInfo.innerHTML = `
-   <p>${t.popInfo.welcome}</p>
-<p>${t.popInfo.particles}</p>
-<p>${t.popInfo.started}</p>
+   <p>"Welcome,</p>
+<p>"In this world, humans are particles,</p>
+<p>"their shape and color tell us where they started."</p>
 
     
 <span id="originCountry"></span><br>
-<p>${t.popInfo.together}</p>
-<p>${t.popInfo.population}</p>
+<p>Together, particles compose patterns</p>
+<p>"If a pattern forms on a territory, we call it a population."</p>
    
     <div id="patternLines"></div>
-<p>${t.popInfo.migrant}</p>
+<p>"When a particle differs from it's neighbors, we call it a migrant.</p>
       
 <div id="popCompass" class="popCompass"></div>
     
  <p class="popup-note">
- <p>${t.popInfo.source}</p>
+ <p>"Based on the United Nations dataset International Migrant Stock (2024)"</p>
 </p>
 
     <div id="popContact" class="popContact"></div>
