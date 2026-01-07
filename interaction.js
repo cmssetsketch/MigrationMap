@@ -558,8 +558,8 @@ function showPopInfo() {
       
 <div id="popCompass" class="popCompass"></div>
     
- <p class="popup-note">
- <p>"Based on the United Nations dataset International Migrant Stock (2024)"</p>
+<p class="popup-note"
+ <p>"Based on the United Nations dataset <em>International Migrant Stock </em>(2024)"</p>
 </p>
 
     <div id="popContact" class="popContact"></div>
