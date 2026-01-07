@@ -545,13 +545,13 @@ function requestSafeRedraw(p) {
 function showPopInfo() {
   popInfo.innerHTML = `
    <p>"Welcome,</p>
-<p>"In this world, humans are particles,</p>
-<p>"their shape and color tell us where they started."</p>
+<p>"In this world, humans are particles,</br>
+"their shape and color tell us where they started."</p>
 
     
 <span id="originCountry"></span><br>
-<p>Together, particles compose patterns</p>
-<p>"If a pattern forms on a territory, we call it a population."</p>
+<p>Together, particles compose patterns</br>
+"If a pattern forms on a territory, we call it a population."</p>
    
     <div id="patternLines"></div>
 <p>"When a particle differs from it's neighbors, we call it a migrant.</p>
