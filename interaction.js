@@ -556,9 +556,7 @@ If a pattern forms inside a border,</strong> we call it a population.</strong></
    
     
 <p>When a particle differs from it's neighbors,<strong><br> we call it a migrant.</strong> </p>
-      
-<div id="popCompass" class="popCompass"></div>
-    
+          
 <p class="popup-note"
  <p>Based on the United Nations dataset <em>International Migrant Stock </em>(2024)</p>
 </p>
