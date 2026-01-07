@@ -71,6 +71,7 @@ html,body {
   justify-content: flex-end; /* make content hug right edge */
   gap: 10px;
   flex: 0; /* prevent stretching */
+  padding-bottom:15px;
 }
 
 /* Toolbar buttons */
