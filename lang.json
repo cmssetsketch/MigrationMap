@@ -242,7 +242,7 @@
       "Northern Mariana Islands":"Northern Mariana Islands", 
       "Palau":"Palau",
       "Micronesia":"Micronesia",
-      "Cook Islands",:"Cook Islands", 
+      "Cook Islands":"Cook Islands", 
       "French Polynesia":"French Polynesia",
       "Niue": "Niue",
       "Samoa":"Samoa", 
@@ -252,7 +252,7 @@
       "Wallis and Futuna Islands":"Wallis and Futuna Islands",
       "Polynesia":"Polynesia",
       "Australia":"Australia", 
-      "New Zealand":"New Zealand",
+      "New Zealand":"New Zealand"
     }
   },
   "fr": {
@@ -499,7 +499,7 @@
       "Northern Mariana Islands":"Îles Mariannes du Nord ", 
       "Palau":"Palau",
       "Micronesia":"Micronésie",
-      "Cook Islands",:"Îles Cook", 
+      "Cook Islands":"Îles Cook", 
       "French Polynesia":"Polynesie Française",
       "Niue": "Niue",
       "Samoa":"Samoa", 
@@ -509,7 +509,7 @@
       "Wallis and Futuna Islands":"Wallis-et-Futuna",
       "Polynesia":"Polynesie",
       "Australia":"Australie", 
-      "New Zealand":"Nouvelle-Zélande",
+      "New Zealand":"Nouvelle-Zélande"
     }
   }
 }
