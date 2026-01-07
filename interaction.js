@@ -324,7 +324,7 @@ function setMode(everybody) {
   everybodyBtn.classList.toggle("active", everybody);
   migrantBtn.classList.toggle("active", !everybody);
 }
-csole.log(everybodyBtn, everybodyBtn.className);
+
 const infoBtn = document.getElementById("info-btn");
 const popInfo = document.getElementById("popInfo");
 
