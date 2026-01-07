@@ -273,13 +273,13 @@ gap: 20px;
 }
 .popCompass {
   display: block; 
-  height: clamp(30px, 30vw, 70px);
+  height: clamp(20px, 20vw, 60px);
   margin:20px 0px;
   width: auto; 
 }
 
 .compass-image{
-  max-height: 70px;
+  max-height: 60px;
   margin-bottom:0px;
 }
 .popup-note {
@@ -292,8 +292,8 @@ gap: 20px;
 #originCountry {
   display: inline-block;
   align-items: center;
-  gap: 5px;
-  margin: 5px 0;
+  gap: 10px;
+  margin: 10px 0;
 }
 
 
