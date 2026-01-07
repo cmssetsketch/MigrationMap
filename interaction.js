@@ -551,10 +551,10 @@ function showPopInfo() {
     
 <span id="originCountry"></span><br>
 <p>Together, particles compose patterns</br>
-"If a pattern forms on a territory, we call it a population."</p>
+"If a pattern forms inside a border,</strong> we call it a population."</strong></p>
    
     <div id="patternLines"></div>
-<p>"When a particle differs from it's neighbors, we call it a migrant.</p>
+<p>"When a particle differs from it's neighbors,<strong> we call it a migrant.</strong> </p>
       
 <div id="popCompass" class="popCompass"></div>
     
