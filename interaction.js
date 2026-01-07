@@ -549,15 +549,14 @@ function showPopInfo() {
     </p>
 <span id="originCountry"></span><br>
 
-
     <p>
       Together they compose patterns.<br>
       <strong>When a pattern fits inside a border, it forms a population.</strong>
-    </p>And when a particle differs from its neighbors, we call it <strong> a
-      migrant</strong>.<br>
 
     <div id="patternLines"></div>
-    
+     </p>And when a particle differs from its neighbors, we call it <strong> a
+      migrant</strong>.
+      
 <div id="popCompass" class="popCompass"></div>
     
     <p class="popup-note">
