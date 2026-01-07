@@ -382,15 +382,7 @@ const enBtn = document.getElementById("eng-btn");
 frBtn.addEventListener("click", () => setLanguage("fr"));
 enBtn.addEventListener("click", () => setLanguage("en"));
 
-function setLanguage(lang) {
-  currentLang = lang;
 
-  // If the popup is visible, rebuild its content in the new language
-  if (popInfo.classList.contains("active")) {
-    showPopInfo();
-  }
-}
- 
 everybodyBtn.addEventListener("click", () => {
   setMode(true);
   buttons.forEach(b => generateSquaresForButton(b));
