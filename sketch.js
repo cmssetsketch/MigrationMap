@@ -13,15 +13,14 @@ let currentLang = "en";
 let zoom = 1;
 let MIN_ZOOM = 1;
 let offscreen;
-/*const CELL_SIZE = 2;
-const AGGREGATE_CELL_SIZE = 6;*/
+
 let buttonsReady = false; 
 let isEverybodyMode = true;
-  let container;
+let container;
 document.addEventListener("DOMContentLoaded", () => {
   console.log("DOM ready → starting p5 sketch");
 
-   let translations = {};
+let translations = {};
 
 async function loadTranslations() {
   const res = await fetch("./lang.json");
