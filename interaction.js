@@ -551,10 +551,11 @@ function showPopInfo() {
 
     <p>
       Together they compose patterns,<br>
+      When a pattern happens inside a border, <br><strong> we call it population.<br></strong>
 </p>
     <div id="patternLines"></div>
-          <p> When a pattern fills a territory, <br><strong> it becomes a population.<br></strong>
-if a particle differs from the group,<br> We call it <strong> a
+          <p> 
+When a particle differs from the group,<br> We call it <strong> a
       migrant.</strong>
       </p>
       
