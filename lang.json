@@ -13,7 +13,7 @@
       "together": "Together, particles compose patterns",
       "population": "If a pattern forms on a territory, we call it a population.",
       "migrant": "When a particle differs from it's neighbors, we call it a migrant."
-      "popup-note": "Based on the United Nations dataset International Migrant Stock 2024"
+      "source": "Based on the United Nations dataset International Migrant Stock 2024"
     },
     "countries": {
      "Burundi": "Burundi",
@@ -256,20 +256,20 @@
     }
   },
   "fr": {
-    "PopUpHeader": {
+    "legend": {
       "including" : "dont",
       "migrant": "% de migrants"
       "mainly coming from:": "principalement venant de :"
       "coming from:": "venant de :"
     },
-    "popup": {
+    "popInfo": {
       "welcome": "Bienvenue,",
       "particles": "Dans ce monde, les humains sont des particules",
-      "origins": "leurs formes et leurs couleurs racontent d'ou elles viennent",
+      "started": "leurs formes et leurs couleurs racontent d'ou elles viennent",
       "together": "Ensemble, les particules composent des motifs",
       "population": "Si un motif se forme sur un territoire, on appelle ça une population.",
       "migrant": "Lorsqu’une particule diffère de ses voisins, on appelle ça un migrant."
-"popup-note": "Basé sur International Migrant Stock(2024), ONU"
+"source": "Basé sur International Migrant Stock(2024), ONU"
 
     },
     "countries": {
