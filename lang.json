@@ -8,7 +8,7 @@
     },
     "popInfo": {
       "welcome": "Welcome,",
-      "particles": "In this world, humans are particles,", 
+      "particles": "In this world, humans are particles," ,
       "started": "their shape and color tell us where they started.",
       "together": "Together, particles compose patterns",
       "population": "If a pattern forms on a territory, we call it a population.",
@@ -51,7 +51,7 @@
       "Morocco":"Morocco",
       "Sudan":"Sudan",
       "Tunisia" :"Tunisia" ,
-      "Western Sahara":"Western Sahara"
+      "Western Sahara":"Western Sahara",
       "Benin" :"Benin" ,
       "Burkina Faso" :"Burkina Faso" ,
       "Cabo Verde" :"Cabo Verde" ,
@@ -188,7 +188,7 @@
       "North Korea":"North Korea" , 
       "Japan":"Japan" , 
       "Mongolia":"Mongolia" ,
-       "South Korea":"South Korea"
+       "South Korea":"South Korea",
       "Afghanistan": "Afghanistan",
       "Bangladesh" :"Bangladesh" , 
       "Bhutan":"Bhutan" ,
@@ -258,8 +258,8 @@
   "fr": {
     "legend": {
       "including" : "dont",
-      "migrant": "% de migrants"
-      "mainly coming from:": "principalement venant de :"
+      "migrant": "% de migrants",
+      "mainly coming from:": "principalement venant de :",
       "coming from:": "venant de :"
     },
     "popInfo": {
@@ -308,7 +308,7 @@
       "Morocco":"Maroc",
       "Sudan":"Soudan",
       "Tunisia" :"Tunisie" ,
-      "Western Sahara":"Sahara Occidental"
+      "Western Sahara":"Sahara Occidental",
       "Benin" :"Benin" ,
       "Burkina Faso" :"Burkina Faso" ,
       "Cabo Verde" :"Cap vert" ,
@@ -445,7 +445,7 @@
       "North Korea":"Corée du Nord" , 
       "Japan":"Japon" , 
       "Mongolia":"Mongolie" ,
-       "South Korea":"Corée du Sud"
+       "South Korea":"Corée du Sud",
       "Afghanistan": "Afghanistan",
       "Bangladesh" :"Bangladesh" , 
       "Bhutan":"Bhoutan" ,
