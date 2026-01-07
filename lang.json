@@ -8,11 +8,11 @@
     },
     "popInfo": {
       "welcome": "Welcome,",
-      "particles": "In this world, humans are particles," 
+      "particles": "In this world, humans are particles,", 
       "started": "their shape and color tell us where they started.",
       "together": "Together, particles compose patterns",
       "population": "If a pattern forms on a territory, we call it a population.",
-      "migrant": "When a particle differs from it's neighbors, we call it a migrant."
+      "migrant": "When a particle differs from it's neighbors, we call it a migrant.",
       "source": "Based on the United Nations dataset International Migrant Stock 2024"
     },
     "countries": {
@@ -268,7 +268,7 @@
       "started": "leurs formes et leurs couleurs racontent d'ou elles viennent",
       "together": "Ensemble, les particules composent des motifs",
       "population": "Si un motif se forme sur un territoire, on appelle ça une population.",
-      "migrant": "Lorsqu’une particule diffère de ses voisins, on appelle ça un migrant."
+      "migrant": "Lorsqu’une particule diffère de ses voisins, on appelle ça un migrant.",
 "source": "Basé sur International Migrant Stock(2024), ONU"
 
     },
