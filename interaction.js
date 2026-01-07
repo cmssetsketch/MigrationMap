@@ -542,10 +542,10 @@ function requestSafeRedraw(p) {
 // -------------------- POPINFO CONTENT --------------------
 function showPopInfo() {
   popInfo.innerHTML = `
-    <p><strong>Welcome to Migration</strong></p>
+    <p><strong>Welcome to Migration,</strong></p>
 
       <p>In here, <strong>humans are particles filling a territory.</strong><br>
-      Our shape and color represent where we come from.
+      Their shape and color represent where they come from.
     </p>
 <span id="originCountry"></span><br>
 
@@ -557,10 +557,7 @@ function showPopInfo() {
       migrant</strong>.<br>
 
     <div id="patternLines"></div>
-
-    <p>
-    The stronger it contrast with the group, the farther it has traveled.
-    </p>
+    
 <div id="popCompass" class="popCompass"></div>
     
     <p class="popup-note">
