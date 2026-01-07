@@ -11,7 +11,7 @@ function getVisibleWorldBounds(p) {
 }
 
 function showData(b) {
-  const t = translations[currentLang] || translations.en;
+  
   const popUp = document.getElementById("popUp");
   if (!popUp) return;
   popUp.style.display = "block";
@@ -376,15 +376,19 @@ function setupInteractions(p) {
   requestSafeRedraw(p);
 }
   // ---------------- BUTTONS ----------------
-  const frBtn = document.getElementById("fr-btn");
-const engBtn = document.getElementById("eng-btn");
+const frBtn = document.getElementById("fr-btn");
+const enBtn = document.getElementById("eng-btn");
 
-frBtn.addEventListener("click", () => applyLanguage("fr"));
-engBtn.addEventListener("click", () => applyLanguage("en"));
+frBtn.addEventListener("click", () => setLanguage("fr"));
+enBtn.addEventListener("click", () => setLanguage("en"));
 
- function setLangButtons(lang) {
-  frBtn.classList.toggle("active", lang === "fr");
-  engBtn.classList.toggle("active", lang === "en");
+function setLanguage(lang) {
+  currentLang = lang;
+
+  // If the popup is visible, rebuild its content in the new language
+  if (popInfo.classList.contains("active")) {
+    showPopInfo();
+  }
 }
  
 everybodyBtn.addEventListener("click", () => {
