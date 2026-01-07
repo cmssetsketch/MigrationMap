@@ -641,7 +641,7 @@ patternContainer.style.paddingBottom = "10px";
   const mainShapeId = countryToShape[mainButton.originalName];
   const mainColor = getColorForCountry(mainButton.originalName);
 
-  for (let lineIndex = 0; lineIndex < 3; lineIndex++) {
+  for (let lineIndex = 0; lineIndex < 4; lineIndex++) {
     const line = document.createElement("div");
     line.style.display = "flex";
 
