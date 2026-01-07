@@ -273,13 +273,13 @@ gap: 20px;
 }
 .popCompass {
   display: block; 
-  height: clamp(40px, 20vw, 80px);
+  height: clamp(40px, 30vw, 80px);
   margin:20px 0px;
   width: auto; 
 }
 
 .compass-image{
-  max-height: 50px;
+  max-height: 80px;
   margin-bottom:0px;
 }
 .popup-note {
