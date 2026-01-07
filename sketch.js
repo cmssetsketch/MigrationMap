@@ -9,7 +9,6 @@ let countryMig;
 let dataMig = {};
 let selectedButton = null;
 let font;
-let currentLang = "en";
 let zoom = 1;
 let MIN_ZOOM = 1;
 let offscreen;
@@ -20,20 +19,6 @@ let container;
 document.addEventListener("DOMContentLoaded", () => {
   console.log("DOM ready → starting p5 sketch");
 
-let translations = {};
-
-async function loadTranslations() {
-  const res = await fetch("./lang.json");
-  translations = await res.json();
-}  
-  function setLanguage(lang) {
-  currentLang = lang;
-
-  // If the popup is visible, rebuild its content in the new language
-  /*if (popInfo.classList.contains("active")) {
-    showPopInfo();
-  }*/
-}
   new p5((p) => {
 
 
@@ -134,20 +119,11 @@ function isIPad() {
 }
 
 
-function getCountryName(originalName) {
-  return (
-    translations?.[currentLang]?.countries?.[originalName] ||
-    originalName
-  );
-}
-
 // ---------------- SETUP ----------------
  p.setup = async function () {
   const container = document.getElementById("map-container");
   const toolbar = document.getElementById("toolbar");
 
-  await loadTranslations();
-applyLanguage("en");
 // Create canvas AFTER container has correct height
   const c = p.createCanvas(container.clientWidth, container.clientHeight);
   c.parent("p5-wrapper");
