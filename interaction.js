@@ -11,7 +11,7 @@ function getVisibleWorldBounds(p) {
 }
 
 function showData(b) {
-  
+  const t = translations[currentLang] || translations.en;
   const popUp = document.getElementById("popUp");
   if (!popUp) return;
   popUp.style.display = "block";
@@ -377,14 +377,14 @@ function setupInteractions(p) {
 }
   // ---------------- BUTTONS ----------------
   const frBtn = document.getElementById("fr-btn");
-const enBtn = document.getElementById("eng-btn");
+const engBtn = document.getElementById("eng-btn");
 
 frBtn.addEventListener("click", () => applyLanguage("fr"));
-enBtn.addEventListener("click", () => applyLanguage("en"));
+engBtn.addEventListener("click", () => applyLanguage("en"));
 
  function setLangButtons(lang) {
   frBtn.classList.toggle("active", lang === "fr");
-  enBtn.classList.toggle("active", lang === "en");
+  engBtn.classList.toggle("active", lang === "en");
 }
  
 everybodyBtn.addEventListener("click", () => {
@@ -551,6 +551,7 @@ function requestSafeRedraw(p) {
 
 // -------------------- POPINFO CONTENT --------------------
 function showPopInfo() {
+  const t = translations[currentLang] || translations.en;
   popInfo.innerHTML = `
    <p>${t.popInfo.welcome}</p>
 <p>${t.popInfo.particles}</p>
