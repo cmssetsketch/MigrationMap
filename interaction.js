@@ -545,22 +545,22 @@ function showPopInfo() {
     <p><strong>Welcome to Migration</strong></p>
 
       <p>In here, <strong>humans are particles filling a territory.</strong><br>
-      Their shape and color represent where they originated from.
+      Their shape and color represent where we originated from.
     </p>
 <span id="originCountry"></span><br>
 
 
     <p>
-      Together they compose patterns.<br>
+      Together we compose patterns.<br>
       <strong>When a pattern is inside a border, it forms a population.</strong>
     </p>
 
     <div id="patternLines"></div>
 
     <p>
-      When a particle’s origin differs from most of its neighbors, we call it a
+      When a particle differs from most of its neighbors, we call it a
       <strong>migrant</strong>.<br>
-      The stronger its contrast with the group, the farther he has traveled.
+      Let color be your compass to see how far he has traveled.
     </p>
 <div id="popCompass" class="popCompass"></div>
     
@@ -572,9 +572,9 @@ function showPopInfo() {
     <div id="popContact" class="popContact"></div>
 
     <div class="info-icons">
-      <a href="mailto:cmsset@gmail.com"><img src="/mail.svg"></a>
-      <a href="https://chloe-msset.com/art" target="_blank"><img src="/web-Icon.svg"></a>
-      <a href="https://www.instagram.com/chloemsset/" target="_blank"><img src="/instagram-icon.svg"></a>
+      <a href="mailto:cmsset@gmail.com"><img src="./mail.svg"></a>
+      <a href="https://chloe-msset.com/art" target="_blank"><img src="./web-Icon.svg"></a>
+      <a href="https://www.instagram.com/chloemsset/" target="_blank"><img src="./instagram-icon.svg"></a>
     </div>
   `;
 
