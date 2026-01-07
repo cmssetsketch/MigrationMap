@@ -324,7 +324,7 @@ function setMode(everybody) {
   everybodyBtn.classList.toggle("active", everybody);
   migrantBtn.classList.toggle("active", !everybody);
 }
-console.log(everybodyBtn, everybodyBtn.className);
+csole.log(everybodyBtn, everybodyBtn.className);
 const infoBtn = document.getElementById("info-btn");
 const popInfo = document.getElementById("popInfo");
 
@@ -382,6 +382,11 @@ const enBtn = document.getElementById("eng-btn");
 frBtn.addEventListener("click", () => applyLanguage("fr"));
 enBtn.addEventListener("click", () => applyLanguage("en"));
 
+ function setLangButtons(lang) {
+  frBtn.classList.toggle("active", lang === "fr");
+  enBtn.classList.toggle("active", lang === "en");
+}
+ 
 everybodyBtn.addEventListener("click", () => {
   setMode(true);
   buttons.forEach(b => generateSquaresForButton(b));
