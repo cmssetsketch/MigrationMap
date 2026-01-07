@@ -545,7 +545,7 @@ function showPopInfo() {
     <p><strong>Welcome,</strong></p>
 
       <p>In here, <strong>humans are particles,</strong><br>
-      and their shape and color represent where they started.
+      their shape and color represent where they started.
     </p>
 <span id="originCountry"></span><br>
 
@@ -553,8 +553,8 @@ function showPopInfo() {
       Together they compose patterns,<br>
 </p>
     <div id="patternLines"></div>
-          <p> when a pattern fits inside a border, <br><strong>it forms a population.</strong>
-If a particle differs from its neighbors,<br> we call it <strong> a
+          <p> When a pattern fills a territory, <br><strong> it becomes a population.<br></strong>
+if a particle differs from the group,<br> We call it <strong> a
       migrant.</strong>
       </p>
       
