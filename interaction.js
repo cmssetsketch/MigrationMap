@@ -547,23 +547,23 @@ function requestSafeRedraw(p) {
 // -------------------- POPINFO CONTENT --------------------
 function showPopInfo() {
   popInfo.innerHTML = `
-   <p  <span data-i18n="popup.welcome"></span></p>
+   <p  <span data-i18n="popInfo.welcome"></span></p>
 
-      <p <span data-i18n="popup.particles"></span></p>
-      <p <span data-i18n="popup.origin"></span></p>
+      <p <span data-i18n="popInfo.particles"></span></p>
+      <p <span data-i18n="popInfo.started"></span></p>
     
 <span id="originCountry"></span><br>
 
-<p><span data-i18n="popup.together"></span><br>
-<p><span data-i18n="popup.population"></span></p>
+<p><span data-i18n="popInfo.together"></span><br>
+<p><span data-i18n="popInfo.population"></span></p>
    
     <div id="patternLines"></div>
-   <p><span <data-i18n="popup.nmigrant"></span><</p>
+   <p><span <data-i18n="popInfo.migrant"></span><</p>
       
 <div id="popCompass" class="popCompass"></div>
     
     <p class="popup-note">
-       <p> <span data-i18n="popup.source"></span></p>
+       <p> <span data-i18n="popup-note"></span></p>
     </p>
 
     <div id="popContact" class="popContact"></div>
