@@ -268,7 +268,7 @@ gap: 20px;
 }
 .popContact .contact-image {
   display: block;           /* so margin auto works */
-  margin: 0 auto 10px auto; /* center horizontally + bottom margin */
+  margin: 10px auto 10px auto; /* center horizontally + bottom margin */
   height: clamp(15px, 20vw, 50px); /* responsive height */
   width: auto;              /* maintain aspect ratio */
 }
@@ -281,7 +281,7 @@ gap: 20px;
 
 .compass-image{
   max-height: 40px;
-  margin-bottom:0px;
+  margin-bottom:10px;
 }
 .popup-note {
   font-size: 11px;
@@ -294,7 +294,7 @@ gap: 20px;
   display: inline-block;
   align-items: center;
   gap: 10px;
-  margin: 10px 10px;
+  margin: 15px 10px;
 }
 
 
