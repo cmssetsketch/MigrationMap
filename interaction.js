@@ -585,7 +585,8 @@ imgC.src = "compas.png";                    // set source
 imgC.alt = "Compass Image";                 // alt text
 imgC.classList.add("compass-image");        // add class
 compassContainer.appendChild(imgC);         // add to container
-
+compassContainer.style.paddingBottom="10px";
+  compassContainer.style.paddingTop="10px";
   // -------------------- ROTATING ORIGIN --------------------
   const originContainer = document.getElementById("originCountry");
   if (!originContainer || buttons.length === 0) return;
@@ -602,7 +603,7 @@ compassContainer.appendChild(imgC);         // add to container
     wrapper.style.flexDirection = "column";
     wrapper.style.alignItems = "center";
  
-    const shape = createCountryShapeSVG(shapeId, color, 30);
+    const shape = createCountryShapeSVG(shapeId, color, 28);
     shape.style.pointerEvents = "none";
     shape.style.fill = color;
 
@@ -610,7 +611,7 @@ compassContainer.appendChild(imgC);         // add to container
     label.textContent = b.originalName;
     label.style.fontSize = "12px";
     label.style.color = color;
-
+label.style.paddingTop ="5px";
     wrapper.append(shape, label);
     originContainer.appendChild(wrapper);
   }
@@ -639,7 +640,7 @@ patternContainer.style.paddingBottom = "20px";
   const mainShapeId = countryToShape[mainButton.originalName];
   const mainColor = getColorForCountry(mainButton.originalName);
 
-  for (let lineIndex = 0; lineIndex < 5; lineIndex++) {
+  for (let lineIndex = 0; lineIndex < 4; lineIndex++) {
     const line = document.createElement("div");
     line.style.display = "flex";
 
