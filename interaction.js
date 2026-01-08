@@ -602,7 +602,7 @@ compassContainer.appendChild(imgC);         // add to container
     wrapper.style.flexDirection = "column";
     wrapper.style.alignItems = "center";
  
-    const shape = createCountryShapeSVG(shapeId, color, 24);
+    const shape = createCountryShapeSVG(shapeId, color, 30);
     shape.style.pointerEvents = "none";
     shape.style.fill = color;
 
