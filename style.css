@@ -48,19 +48,19 @@ html,body {
 }
 /* Toolbar */
 #toolbar {
-    position: fixed;
-    bottom: env(safe-area-inset-bottom, 0px);
-    left: 0;
-    width: 100%;
-    min-height: 30px;
-    display: flex;
-    justify-content: center;
-    gap: 8px;
-    padding: 10px;
-    z-index: 1000;
+  position: fixed;
+  bottom: env(safe-area-inset-bottom, 0px);
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100%;
+  max-width: 100vw;
+  box-sizing: border-box;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  z-index: 1000;
 }
-
-
 
 /* Toolbar sections */
 .toolbar-left,
@@ -113,9 +113,10 @@ border: 1px solid #fff;
 
 /* active / inactive states */
 .toggle-btn.active {
-  background-color: rgba(255,255,255,0.8) !important;
-  color: black !important;
+  /*background-color: rgba(255,255,255,0.8) !important;
+  color: black !important;*/
   font-weight: 600;
+  font-style:underline;
 }
 
 
