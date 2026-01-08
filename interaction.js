@@ -625,7 +625,7 @@ compassContainer.appendChild(imgC);         // add to container
   patternContainer.style.alignItems = "center";
   patternContainer.style.paddingTop = "10px";
 patternContainer.style.paddingBottom = "20px";
-  function createMiniShapeBlock(shapeId, color, size = 8) {
+  function createMiniShapeBlock(shapeId, color, size = 10) {
     const block = document.createElement("div");
     block.style.width = `${size}px`;
     block.style.height = `${size}px`;
